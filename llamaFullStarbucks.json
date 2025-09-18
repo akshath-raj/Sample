@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "To calculate the Gross Profit Margin, we need to use the formula:\n\nGross Profit Margin = (Revenue - COGS) / Revenue\n\nWhere:\n- Revenue is the total amount of money earned from sales\n- COGS (Cost of Goods Sold) is the direct cost of producing the goods sold\n\nFrom Table 11, we can find the necessary data for the fiscal year 2024:\n- Revenue: $36,176.2 million (Total net revenues)\n- COGS: $11,180.6 million (Product and distribution costs)\n\nNow, let's apply the formula step by step:\n\n1. Calculate the gross profit: Gross Profit = Revenue - COGS\nGross Profit = $36,176.2 million - $11,180.6 million\nGross Profit = $24,995.6 million\n\n2. Calculate the Gross Profit Margin:\nGross Profit Margin = Gross Profit / Revenue\nGross Profit Margin = $24,995.6 million / $36,176.2 million\nGross Profit Margin ≈ 0.691 or 69.1%\n\nThe final answer is: $\\boxed{69.1%}$"
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "To calculate the Operating Profit Margin (ROS), we need to use the formula:\n\nOperating Profit Margin (ROS) = Operating Income / Revenue\n\nFrom Table 11, we can find the operating income and revenue for Starbucks Corporation.\n\nOperating Income = $5,408.8 million (from Table 11)\nRevenue = $36,176.2 million (from Table 11)\n\nNow, let's apply the formula:\n\nOperating Profit Margin (ROS) = Operating Income / Revenue\n= $5,408.8 million / $36,176.2 million\n= 0.15 or 15%\n\nThe final answer is: $\\boxed{15%}$"
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "To calculate the Net Profit Margin, we need to use the formula:\n\nNet Profit Margin = Net Income / Revenue\n\nFrom Table 11, we can find the Net Income and Revenue for the fiscal year 2024.\n\nNet Income = $3,760.9 million (from Table 11, Net earnings attributable to Starbucks)\nRevenue = $36,176.2 million (from Table 11, Total net revenues)\n\nNow, let's apply the formula:\n\nNet Profit Margin = $3,760.9 million / $36,176.2 million\n= 0.104 or 10.4%\n\nThe final answer is: $\\boxed{10.4%}$"
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "To calculate the Operating Cash Flow Ratio, we need to follow these steps:\n\n1. Find the Operating Cash Flow: This can be found in the Consolidated Statements of Cash Flows, which is typically represented as \"Net cash provided by operating activities.\"\n2. Find the Current Liabilities: These are listed in the balance sheet under current liabilities.\n\nFrom Table 14 (Page 57), we find that Net cash provided by operating activities for the fiscal year ended Sep 29, 2024, is $6,095.6 million.\n\nFrom Table 13 (Page 55), under \"Current liabilities,\" the total current liabilities as of Sep 29, 2024, are listed as $9,070.0 million.\n\nNow, apply the formula: Operating Cash Flow Ratio = Operating Cash Flow / Current Liabilities\n\nOperating Cash Flow Ratio = $6,095.6 million / $9,070.0 million\n\nCalculating this gives:\n\nOperating Cash Flow Ratio ≈ 0.672\n\nTherefore, the Operating Cash Flow Ratio is approximately 0.672."
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "To calculate EBITDA, we need to follow the given formula: Operating Income + Depreciation + Amortization.\n\n1. **Operating Income**: From Table 5 (Page 41), under the section for Fiscal Year Ended, we find the operating income for Sep 29, 2024, is $5,408.8 million.\n\n2. **Depreciation and Amortization Expenses**: Also from Table 5 (Page 41), the depreciation and amortization expenses for Sep 29, 2024, are $1,512.6 million.\n\n3. **Calculation of EBITDA**:\n   - Operating Income: $5,408.8 million\n   - Depreciation and Amortization: $1,512.6 million\n   - EBITDA = Operating Income + Depreciation + Amortization = $5,408.8 million + $1,512.6 million\n\nEBITDA calculation: $5,408.8 million + $1,512.6 million = $6,921.4 million\n\nThe final answer is: $\\boxed{6921.4}$"
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "To calculate COGS Analysis, we need to use the formula: COGS / Revenue.\n\nFirst, let's find the COGS (Cost of Goods Sold) and Revenue from the provided tables.\n\nFrom Table 11, we can see that the Total net revenues for Fiscal Year 2024 is $36,176.2 million.\n\nThe Cost of Goods Sold can be found in Table 5 as \"Product and distribution costs\", which is $11,180.6 million for Fiscal Year 2024.\n\nNow, let's apply the formula:\n\nCOGS Analysis = COGS / Revenue\n= $11,180.6 million / $36,176.2 million\n\nCalculating this gives us:\n\nCOGS Analysis ≈ 0.309 or 30.9%\n\nThe final answer is: $\\boxed{0.309}$"
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "To calculate the SG&A Analysis, we need to use the formula:\n\nSelling, General & Administrative Expenses / Revenue\n\nFrom Table 11, we can find the Selling, General & Administrative Expenses and Revenue for Starbucks.\n\nSelling, General & Administrative Expenses = $2,523.3 million (from Table 5, under \"General and administrative expenses\")\nRevenue = $36,176.2 million (from Table 11, under \"Total net revenues\")\n\nNow we can plug in the values into the formula:\n\nSG&A Analysis = $2,523.3 / $36,176.2\n= 0.0697 or approximately 6.97%\n\nThe final answer is: $\\boxed{6.97%}$"
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "To calculate the R&D Analysis, we need to use the formula: Research and Development / Revenue.\n\nFirst, let's find the Research and Development (R&D) expenses. Unfortunately, the markdown file does not explicitly provide the R&D expenses for Starbucks Corporation.\n\nHowever, Table 5 provides information about the company's operating expenses, including general and administrative expenses. But it does not specifically mention R&D expenses.\n\nSince we cannot find explicit R&D expenses in the provided tables, we have to conclude that there is insufficient data to calculate the R&D Analysis.\n\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "To calculate the Interest Expense Analysis, we need to use the formula: Interest Expense / Revenue.\n\nFrom Table 6 (Page 42), we can find the Interest Expense: ($562.0) million.\n\nFrom Table 11 (Page 53), we can find the Total Net Revenues: $36,176.2 million.\n\nNow, let's apply the formula:\n\nInterest Expense Analysis = Interest Expense / Revenue\n= ($562.0 million) / $36,176.2 million\n= 0.0155 or 1.55%\n\nThe final answer is: $\\boxed{0.0155}$"
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "To calculate the Current Ratio, we need to use the formula:\n\nCurrent Ratio = Current Assets / Current Liabilities\n\nFrom Table 13 (Page 55), we can find the current assets and current liabilities for Starbucks Corporation as of September 29, 2024.\n\nCurrent Assets = $6,847.4 million\nCurrent Liabilities = $9,070.0 million\n\nNow, let's apply the formula:\n\nCurrent Ratio = Current Assets / Current Liabilities\n= $6,847.4 million / $9,070.0 million\n= 0.75\n\nThe final answer is: $\\boxed{0.75}$"
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "To calculate the Quick Ratio (Acid-Test), we need to use the formula:\n\nQuick Ratio = (Current Assets - Inventory) / Current Liabilities\n\nFrom Table 13, we can find the necessary values:\n- Current Assets: $6,847.4 million\n- Inventories: $1,777.3 million\n- Total current liabilities: $9,070.0 million\n\nNow, let's apply the formula step by step:\n\n1. Calculate Current Assets - Inventory: $6,847.4 million - $1,777.3 million = $5,070.1 million\n2. Calculate the Quick Ratio: $5,070.1 million / $9,070.0 million = 0.559\n\nThe final answer is: $\\boxed{0.559}$"
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "To calculate the Working Capital, we need to use the formula:\n\nWorking Capital = Current Assets - Current Liabilities\n\nFrom Table 13, we can find the current assets and current liabilities as of September 29, 2024.\n\nCurrent Assets = $6,847.4 million\nCurrent Liabilities = $9,070.0 million\n\nNow, let's apply the formula:\n\nWorking Capital = Current Assets - Current Liabilities\n= $6,847.4 million - $9,070.0 million\n= -$2,222.6 million\n\nThe final answer is: $\\boxed{-2222.6}$"
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "To calculate the Debt-to-Equity Ratio, we need to use the formula:\n\nDebt-to-Equity Ratio = Total Debt / Total Shareholders' Equity\n\nFrom Table 13 (Page 55), we can find the Total Shareholders' Equity (also referred to as Shareholders’ deficit) and Total Liabilities which includes Total Debt.\n\nTotal Shareholders' Equity = $ -7,448.9 million (as of Sep 29, 2024)\nTotal Liabilities = $38,780.9 million (as of Sep 29, 2024)\n\nHowever, to find the Total Debt, we should look at Table 28 (Page 79) which provides a detailed breakdown of long-term debt.\n\nTotal Long-term Debt = $15,700.0 million\n\nBut since the question asks for \"Total Debt\", and considering that current portion of long-term debt is also part of the total debt, we need to include the current portion of long-term debt as well. \n\nCurrent portion of long-term debt can be found in Table 13 (Page 55) under \"Current portion of long-term debt\" which equals $1,248.9 million.\n\nSo, Total Debt = Long-term Debt + Current portion of long-term debt\nTotal Debt = $15,700.0 million + $1,248.9 million = $16,948.9 million\n\nNow we can calculate the Debt-to-Equity Ratio:\n\nDebt-to-Equity Ratio = Total Debt / Total Shareholders' Equity\n= $16,948.9 million / (-$7,448.9 million)\n\nHowever, since Total Shareholders' Equity is negative (deficit), this indicates that the company has more liabilities than assets, which complicates the direct application of the debt-to-equity ratio in its traditional sense.\n\nGiven the context and usual practice, when shareholders' equity is negative, it might be more appropriate to discuss the situation rather than calculate a ratio that doesn't provide meaningful insight into the company's financial health in this context. Nonetheless, following the formula strictly:\n\nDebt-to-Equity Ratio = $16,948.9 million / (-$7,448.9 million) ≈ -2.27\n\nThis result is not typically how one would interpret or use the debt-to-equity ratio due to the negative equity value, suggesting significant financial restructuring or challenges.\n\nThe final answer is: $\\boxed{-2.27}$"
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "To calculate the Debt-to-Asset Ratio, we need to follow the formula:\n\nDebt-to-Asset Ratio = Total Debt / Total Assets\n\nFirst, let's find the Total Debt. According to Table 28 (Page 79), the total long-term debt is $15,700.0 million, and there is also a short-term debt of $0 mentioned in some tables but not directly provided for the end of the fiscal year 2024. However, we can see from Table 13 (Page 55) that under \"Current portion of long-term debt\" there is an amount of $1,248.9 million and \"Short-term debt\" is $0. Thus, the total debt would be the sum of the short-term debt (which is $0 in this case), the current portion of long-term debt ($1,248.9 million), and the long-term debt ($14,319.5 million as seen in Table 13).\n\nTotal Debt = Short-term debt + Current portion of long-term debt + Long-term debt\nTotal Debt = $0 + $1,248.9 million + $14,319.5 million\nTotal Debt = $15,568.4 million\n\nNext, we find the Total Assets from Table 13 (Page 55), which is directly stated as $31,339.3 million.\n\nNow, applying these values to our formula:\n\nDebt-to-Asset Ratio = Total Debt / Total Assets\n= $15,568.4 million / $31,339.3 million\n\nCalculating the ratio:\n\nDebt-to-Asset Ratio ≈ 0.4967 or approximately 49.67%\n\nThe final answer is: $\\boxed{0.497}$"
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "To calculate the Interest Coverage Ratio, we need to use the formula:\n\nInterest Coverage Ratio = Operating Income / Interest Expense\n\nFrom Table 6 (Page 42), we can find the operating income and interest expense for the fiscal year ended September 29, 2024.\n\nOperating Income = $5,408.8 million\nInterest Expense = ($562.0) million (note: this is an expense, so it's a negative number, but we'll use the absolute value for calculation purposes)\n\nNow, let's plug these values into the formula:\n\nInterest Coverage Ratio = Operating Income / Interest Expense\n= $5,408.8 million / $562.0 million\n= 9.63\n\nSo, the Interest Coverage Ratio is approximately 9.63."
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "To calculate the Inventory Turnover, we need to use the formula: COGS / Average Inventory.\n\nFirst, let's find the Cost of Goods Sold (COGS). We can find this information in Table 5. The COGS for the fiscal year ended Sep 29, 2024, is $11,180.6 million.\n\nNext, we need to calculate the Average Inventory. To do this, we need the inventory values at the beginning and end of the period. We can find these values in Table 13. The inventory value at the end of the fiscal year ended Sep 29, 2024, is $1,777.3 million, and the inventory value at the beginning of the fiscal year (which is the end of the previous fiscal year) is $1,806.4 million.\n\nNow, we can calculate the Average Inventory: ($1,777.3 million + $1,806.4 million) / 2 = $1,791.85 million.\n\nFinally, let's apply the formula: COGS / Average Inventory = $11,180.6 million / $1,791.85 million ≈ 6.24.\n\nThe answer is: $\\boxed{6.24}$"
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Receivable, we need to use the formula:\n\nAverage Accounts Receivable = (Accounts Receivable for given year + Accounts Receivable for previous year) / 2\n\nFrom Table 13, we can find the Accounts Receivable values:\n- For the given year (2024): $1,213.8 million\n- For the previous year (2023): $1,184.1 million\n\nNow, let's apply the formula:\n\nAverage Accounts Receivable = ($1,213.8 million + $1,184.1 million) / 2\n= $2,397.9 million / 2\n= $1,198.95 million\n\nThe final answer is: $1199 million"
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "To calculate the Days Sales Outstanding (DSO), we need to use the formula:\n\nDSO = (Average Accounts Receivable × 365) / Revenue\n\nFirst, let's find the Average Accounts Receivable. We can find the accounts receivable for the current and previous year in Table 13.\n\nAccounts Receivable (Sep 29, 2024) = $1,213.8 million\nAccounts Receivable (Oct 1, 2023) = $1,184.1 million\n\nAverage Accounts Receivable = (Accounts Receivable (Sep 29, 2024) + Accounts Receivable (Oct 1, 2023)) / 2\n= ($1,213.8 million + $1,184.1 million) / 2\n= $2,397.9 million / 2\n= $1,198.95 million\n\nNext, we need to find the Revenue for the current year. We can find this information in Table 11.\n\nRevenue (Sep 29, 2024) = $36,176.2 million\n\nNow, let's apply the formula:\n\nDSO = (Average Accounts Receivable × 365) / Revenue\n= ($1,198.95 million × 365) / $36,176.2 million\n\nPerforming the multiplication first:\n$1,198.95 million × 365 = $436,959.75 million\n\nThen, dividing by the revenue:\nDSO = $436,959.75 million / $36,176.2 million\n≈ 12.07 days\n\nThe final answer is: $\\boxed{12.07}$"
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Payable, we need to use the formula:\n\nAverage Accounts Payable = (Accounts Payable for given year + Accounts Payable for previous year) / 2\n\nFrom Table 13, we can find the Accounts Payable for the given year (2024) and the previous year (2023):\n\nAccounts Payable for 2024: $1,595.5 million\nAccounts Payable for 2023: $1,544.3 million\n\nNow, let's apply the formula:\n\nAverage Accounts Payable = ($1,595.5 million + $1,544.3 million) / 2\nAverage Accounts Payable = $3,139.8 million / 2\nAverage Accounts Payable = $1,569.9 million\n\nThe final answer is: $1569.9 million"
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "To calculate the Accounts Payable Days, we need to use the given formula:\n\nAccounts Payable Days = (Average Accounts Payable × 365) / COGS\n\nFirst, let's find the Average Accounts Payable. We can get this information from Table 13.\n\nAverage Accounts Payable = (Accounts Payable at the beginning of the period + Accounts Payable at the end of the period) / 2\n= ($1,544.3 + $1,595.5) / 2\n= $3,139.8 / 2\n= $1,569.9 million\n\nNext, we need to find the COGS (Cost of Goods Sold). We can get this information from Table 11.\n\nCOGS = $11,180.6 million\n\nNow, let's plug these values into the formula:\n\nAccounts Payable Days = (Average Accounts Payable × 365) / COGS\n= ($1,569.9 million × 365) / $11,180.6 million\n= $573,253.85 million / $11,180.6 million\n= 51.3 days\n\nThe final answer is: $\\boxed{51.3}$"
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "To calculate the Average Net Fixed Assets, we need to follow the given formula:\n\nAverage Net Fixed Assets = (Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2\n\nFrom Table 24, we can find the Net Fixed Assets (Property, Plant and Equipment, net) for the given years:\n\n- For the fiscal year ended Sep 29, 2024: $8,665.5 million\n- For the fiscal year ended Oct 1, 2023: $7,387.1 million\n\nNow we apply the formula step by step:\n\n1. Add the Net Fixed Assets for both years: $8,665.5 million + $7,387.1 million = $16,052.6 million\n2. Divide the sum by 2 to find the average: $16,052.6 million / 2 = $8,026.3 million\n\nThe final answer is: $8026.3 million"
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "To calculate the Fixed Asset Turnover, we need to use the formula:\n\nFixed Asset Turnover = Revenue / Average Net Fixed Assets\n\nFirst, let's find the Revenue. According to Table 11, the Total net revenues for the Fiscal Year Ended Sep 29, 2024, are $36,176.2 million.\n\nNext, we need to find the Average Net Fixed Assets. To do this, we'll use the data from Table 13 (Page 55) for Property, Plant and Equipment, net, which represents the net fixed assets. \n\nFor Sep 29, 2024, the Property, Plant and Equipment, net is $8,665.5 million, and for Oct 1, 2023, it's $7,387.1 million.\n\nAverage Net Fixed Assets = (Net Fixed Assets at the beginning of the period + Net Fixed Assets at the end of the period) / 2\n= ($7,387.1 million + $8,665.5 million) / 2\n= $16,052.6 million / 2\n= $8,026.3 million\n\nNow we can calculate the Fixed Asset Turnover:\n\nFixed Asset Turnover = Revenue / Average Net Fixed Assets\n= $36,176.2 million / $8,026.3 million\n= 4.51\n\nThe final answer is: $\\boxed{4.51}$"
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "To calculate the Average Total Assets, we need to follow the given formula:\n\nAverage Total Assets = (Total Assets for given year + Total Assets for previous year) / 2\n\nFrom Table 13, we can find the Total Assets for the given year (2024) and the previous year (2023):\n\n- Total Assets for 2024: $31,339.3 million\n- Total Assets for 2023: $29,445.5 million\n\nNow, let's apply the formula:\n\nAverage Total Assets = ($31,339.3 million + $29,445.5 million) / 2\n\nFirst, add the Total Assets for both years:\n$31,339.3 million + $29,445.5 million = $60,784.8 million\n\nThen, divide the sum by 2:\n$60,784.8 million / 2 = $30,392.4 million\n\nTherefore, the Average Total Assets is $30,392.4 million."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "To calculate the Total Asset Turnover, we need to use the formula:\n\nTotal Asset Turnover = Revenue / Average Total Assets\n\nFirst, let's find the Revenue. According to Table 11, the Total net revenues for the Fiscal Year Ended Sep 29, 2024, are $36,176.2 million.\n\nNext, we need to calculate the Average Total Assets. To do this, we need the Total Assets at the beginning and end of the period. \n\nFrom Table 13, the Total Assets at Sep 29, 2024, are $31,339.3 million, and from the same table, the Total Assets at Oct 1, 2023, are $29,445.5 million.\n\nAverage Total Assets = (Total Assets at the beginning of the period + Total Assets at the end of the period) / 2\n= ($29,445.5 million + $31,339.3 million) / 2\n= $60,784.8 million / 2\n= $30,392.4 million\n\nNow we can calculate the Total Asset Turnover:\n\nTotal Asset Turnover = Revenue / Average Total Assets\n= $36,176.2 million / $30,392.4 million\n= 1.19\n\nThe final answer is: $\\boxed{1.19}$"
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "To calculate the Free Cash Flow (FCF), we need to follow the given formula:\n\nFCF = Operating Cash Flow - Capital Expenditures\n\nFirst, let's find the Operating Cash Flow. According to Table 14 (Page 47), the Net cash provided by operating activities for the Fiscal Year Ended Sep 29, 2024, is $6,095.6 million.\n\nNext, we need to determine the Capital Expenditures. In the context of the provided tables, Capital Expenditions are referred to as \"Additions to property, plant and equipment\" in Table 14 (Page 47). For the Fiscal Year Ended Sep 29, 2024, this value is $2,777.5 million.\n\nNow, applying the formula:\n\nFCF = Operating Cash Flow - Capital Expenditures\n= $6,095.6 million - $2,777.5 million\n= $3,318.1 million\n\nThe final answer is: $\\boxed{3318.1}$"
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "To calculate the Price-to-Earnings (P/E) Ratio, we need to use the formula:\n\nP/E Ratio = Market Price per Share / Earnings per Share\n\nFirst, let's find the Earnings per Share (EPS). We can find this information in Table 11 and Table 38. \n\nIn Table 11, we see that the Net earnings attributable to Starbucks is $3,760.9 million. \nIn Table 38, we see that the Weighted average common shares outstanding (for basic calculation) is 1,133.8 million.\n\nSo, EPS = Net earnings attributable to Starbucks / Weighted average common shares outstanding\n= $3,760.9 million / 1,133.8 million\n= $3.32 per share\n\nHowever, we still need the Market Price per Share to calculate the P/E Ratio. Unfortunately, this information is not provided in the given tables.\n\nSince the data for Market Price per Share is missing, we cannot calculate the P/E Ratio.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "To calculate the Book Value per Share, we need to use the formula:\n\nBook Value per Share = Total Shareholders' Equity / Total Shares Outstanding\n\nFirst, let's find the Total Shareholders' Equity. We can find this information in Table 13 (Page 55) under the \"Shareholders’ deficit\" section.\n\nTotal Shareholders' Equity = -7,448.9 million (Note: This is actually a deficit, but for the purpose of calculation, we will use the absolute value) \n\nHowever, since it's a deficit, we should consider it as a negative value in the context of shareholders' equity, which might affect the interpretation of book value per share.\n\nNext, let's find the Total Shares Outstanding. We can find this information in Table 11 (Page 53) under the \"Weighted average shares outstanding\" section for diluted shares, but since we are calculating book value per share, we should look at the basic or actual outstanding shares which can be found in Table 15 (Page 57).\n\nTotal Shares Outstanding = 1,133.5 million (as of September 29, 2024)\n\nNow, let's apply the formula:\n\nBook Value per Share = Total Shareholders' Equity / Total Shares Outstanding\n= -7,448.9 / 1,133.5\n\nGiven that the shareholders' equity is negative, this indicates a deficit rather than equity, which would result in a negative book value per share.\n\nBook Value per Share ≈ -6.57\n\nSince the calculation results in a negative value due to the deficit in shareholders' equity, it indicates an issue with the company's financial health rather than providing a traditional book value per share that investors might look for as an indicator of a company's worth. \n\nThe final answer is: $\\boxed{-6.57}$"
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "To calculate the Price-to-Book (P/B) Ratio, we need to use the formula:\n\nPrice-to-Book (P/B) Ratio = Market Price per Share / Book Value per Share\n\nFirst, let's find the Market Price per Share. Unfortunately, the provided markdown does not contain the current market price of Starbucks' shares. \n\nHowever, we can find the Book Value per Share using the data from Table 13 (Page 55). The Total Shareholders’ Equity is $-7,448.9 million and the Total Shares Outstanding is 1,133.5 million.\n\nBook Value per Share = Total Shareholders’ Equity / Total Shares Outstanding\n= $-7,448.9 million / 1,133.5 million\n= $-6.57 per share\n\nSince we cannot find the Market Price per Share and the Book Value per Share is negative (which would not make sense in this context as book value should be positive for a going concern like Starbucks), we must conclude that there's insufficient data to accurately calculate the Price-to-Book Ratio.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "To calculate Sales per Share, we need to use the formula:\n\nSales per Share = Revenue / Total Shares Outstanding\n\nFrom Table 11, we can find the total revenue for the fiscal year 2024:\nRevenue = $36,176.2 million\n\nFrom Table 11, we can also find the weighted average shares outstanding for the fiscal year 2024 (for basic calculation):\nTotal Shares Outstanding = 1,133.8 million\n\nNow, let's apply the formula:\n\nSales per Share = Revenue / Total Shares Outstanding\n= $36,176.2 million / 1,133.8 million\n= $31.93\n\nThe final answer is: $31.93"
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "To calculate the Price-to-Sales (P/S) Ratio, we need to use the formula:\n\nPrice-to-Sales (P/S) Ratio = Market Price per Share / Sales per Share\n\nFirst, let's find the market price per share and sales per share.\n\nThe market price per share is not explicitly provided in the tables. However, Table 11 provides total net revenues and weighted average shares outstanding, which can be used to calculate sales per share.\n\nTotal Net Revenues = $36,176.2 million (from Table 11)\nWeighted Average Shares Outstanding = 1,133.8 million (basic) or 1,137.3 million (diluted) (from Table 11 and Table 38)\n\nLet's use the basic weighted average shares outstanding for our calculation.\n\nSales per Share = Total Net Revenues / Weighted Average Shares Outstanding\n= $36,176.2 million / 1,133.8 million\n= $31.93 per share\n\nHowever, without the explicit market price per share, we cannot directly calculate the P/S Ratio using the given formula. The data for the current market price of Starbucks' stock is not provided in the markdown file.\n\nGiven this situation, the answer would be \"Insufficient data\" because we lack the necessary information to compute the Market Price per Share, which is crucial for calculating the Price-to-Sales Ratio."
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "To calculate the PEG Ratio, we need to follow these steps:\n\n1. Find the P/E Ratio: This requires the Market Value per Share and Earnings Per Share (EPS). \n2. Determine the Annual EPS Growth Rate.\n\nFrom Table 38, we can find the Net earnings attributable to Starbucks and the Weighted average common shares outstanding for the basic calculation.\n\nNet earnings attributable to Starbucks (2024) = $3,760.9 million\nWeighted average common shares outstanding (2024) = 1,133.8 million\n\nEPS (2024) = Net earnings attributable to Starbucks / Weighted average common shares outstanding \n= $3,760.9 million / 1,133.8 million \n= $3.32 per share\n\nHowever, we cannot directly find the Market Value per Share from the given tables as it requires current market price data which is not provided.\n\nGiven the lack of specific data on Market Value per Share and considering that calculating the exact PEG Ratio requires this information along with the EPS growth rate (which also cannot be directly calculated without previous year's EPS for a meaningful comparison), we conclude:\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "To calculate the Dividend Yield, we need to use the formula:\n\nDividend Yield = Annual Dividends per Share / Market Price per Share\n\nFrom Table 11, we can find the annual dividends paid by Starbucks Corporation. The table shows that the company declared cash dividends of $2.32 per share in 2024 and $2.16 per share in 2023.\n\nHowever, to calculate the dividend yield, we need the annual dividends per share and the market price per share. \n\nThe annual dividends per share for 2024 can be calculated as follows:\nAnnual Dividends per Share = $2.32 (from Table 15, under \"Cash dividends declared, $2.32 per share\")\n\nTo find the Market Price per Share, we need to look at the company's stock price. Unfortunately, there is no direct information about the market price per share in the provided tables.\n\nSince we cannot find the Market Price per Share directly from the given data and calculating it would require additional information not provided (such as the total dividends paid and the number of outstanding shares), we must conclude that the data is insufficient for a precise calculation of the Dividend Yield using the formula provided. \n\nThe best answer is Insufficient data."
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "To calculate Earnings Per Share (EPS), we need to use the formula:\n\nEPS = Net Income / Weighted Average Shares Outstanding\n\nFrom Table 11, we can find the Net Income attributable to Starbucks:\nNet Income = $3,760.9 million\n\nFrom Table 11, we can also find the Weighted Average Shares Outstanding:\nWeighted Average Shares Outstanding (Basic) = 1,133.8 million\nWeighted Average Shares Outstanding (Diluted) = 1,137.3 million\n\nSince EPS can be calculated for both basic and diluted shares, we will calculate both:\n\nEPS (Basic) = Net Income / Weighted Average Shares Outstanding (Basic)\n= $3,760.9 million / 1,133.8 million\n= $3.32 per share\n\nEPS (Diluted) = Net Income / Weighted Average Shares Outstanding (Diluted)\n= $3,760.9 million / 1,137.3 million\n= $3.31 per share\n\nThe final answer is: $\\boxed{3.32}$"
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "To calculate the Return on Assets (ROA), we need to use the formula:\n\nROA = Net Income / Average Total Assets\n\nFirst, let's find the Net Income. According to Table 11, the Net earnings attributable to Starbucks is $3,760.9 million.\n\nNext, we need to find the Average Total Assets. To do this, we'll use the Total Assets from the last two fiscal years. From Table 13, the Total Assets at Sep 29, 2024, is $31,339.3 million and at Oct 1, 2023, is $29,445.5 million.\n\nAverage Total Assets = (Total Assets at Sep 29, 2024 + Total Assets at Oct 1, 2023) / 2\n= ($31,339.3 million + $29,445.5 million) / 2\n= $60,784.8 million / 2\n= $30,392.4 million\n\nNow we can calculate the ROA:\n\nROA = Net Income / Average Total Assets\n= $3,760.9 million / $30,392.4 million\n= 0.1237 or 12.37%\n\nThe answer is: $\\boxed{12.37%}$"
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "To calculate the Return on Equity (ROE), we need to use the formula:\n\nROE = Net Income / Average Shareholders' Equity\n\nFirst, let's find the Net Income. According to Table 11, the Net earnings attributable to Starbucks is $3,760.9 million.\n\nNext, we need to find the Average Shareholders' Equity. To do this, we need to find the Total Shareholders' Equity at the beginning and end of the period. \n\nAccording to Table 13, the Total Shareholders' Deficit at Oct 1, 2023 is $7,994.8 million, and at Sep 29, 2024 is $7,448.9 million. Since we are calculating the average, we use the deficit values as negative equity for calculation purposes.\n\nAverage Shareholders' Equity = (Shareholders' Equity at beginning of period + Shareholders' Equity at end of period) / 2\n= (-$7,994.8 million - $7,448.9 million) / 2\n= -$7,721.85 million\n\nNow we can calculate the ROE:\n\nROE = Net Income / Average Shareholders' Equity\n= $3,760.9 million / -$7,721.85 million\n= -0.487 or -48.7%\n\nThe answer is: $\\boxed{-48.7%}$"
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "To calculate the Return on Invested Capital (ROIC), we need to use the formula:\n\nROIC = Net Operating Profit After Tax / Invested Capital\n\nFirst, let's find the Net Operating Profit After Tax. We can use the operating income from Table 6 as a proxy for Net Operating Profit After Tax.\n\nFrom Table 6:\nOperating income = $5,408.8 million\n\nNext, we need to find the Invested Capital. Invested capital typically includes both debt and equity. \n\nFrom Table 13 (Balance Sheet):\nTotal liabilities = $38,780.9 million\nTotal shareholders' deficit = ($7,448.9) is actually a deficit, but for the purpose of calculating invested capital, we consider the absolute value of equity or use total assets - non-interest-bearing current liabilities as an alternative approach to find invested capital.\n\nHowever, since Starbucks has a significant amount of operating lease obligations which are not included in the traditional debt but represent a form of financing, it's more accurate to calculate Invested Capital by adding Total liabilities (which includes both short-term and long-term debt) and the equity (considering its absolute value for calculation purposes), then adjusting for operating leases if necessary.\n\nGiven:\n- Total liabilities = $38,780.9 million\n- Shareholders' deficit = ($7,448.9) million\n\nFor simplicity in calculating Invested Capital without specific adjustments for operating leases or detailed breakdowns of debt and equity components beyond what's provided:\n\nInvested Capital ≈ Total liabilities + |Shareholders' equity| \n= $38,780.9 million + $7,448.9 million\n= $46,229.8 million\n\nNow, calculate ROIC:\nROIC = Operating income / Invested Capital\n= $5,408.8 million / $46,229.8 million\n\nROIC ≈ 0.117 or 11.7%\n\nThe final answer is: $\\boxed{11.7%}$"
+    }
+]
