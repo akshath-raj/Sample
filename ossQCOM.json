@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "**Gross Profit Margin (September 29 2024)**  \n\n\\[\n\\text{Gross Profit Margin} = \\frac{\\text{Revenue} - \\text{COGS}}{\\text{Revenue}}\n= \\frac{38{,}962 - 17{,}060}{38{,}962}\n= \\frac{21{,}902}{38{,}962}\n\\approx 0.5625 \\; (\\text{or } 56.3\\%)\n\\]\n\n**Answer:** **≈ 56.3 %**."
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "**Operating Profit Margin (ROS) = Operating Income ÷ Total Revenues**\n\n| Year | Operating Income | Total Revenues | ROS |\n|------|------------------|----------------|------|\n| 2024 | $10,071 | $38,962 | **25.9 %** |\n| 2023 | $7,788  | $35,820 | **21.7 %** |\n| 2022 | $15,860 | $44,200 | **35.9 %** |\n\n*Calculation example (2024):*  \n\\( \\text{ROS}_{2024} = \\dfrac{10{,}071}{38{,}962} = 0.2585 \\approx 25.9\\% \\)\n\nThus, the operating profit margin is approximately **25.9 % for 2024, 21.7 % for 2023, and 35.9 % for 2022**."
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "**Net Profit Margin = Net Income ÷ Total Revenue**\n\n| Year | Net Income ( $ ) | Total Revenue ( $ ) | Net Profit Margin |\n|------|------------------|---------------------|-------------------|\n| 2024 | 10,142 | 38,962 | 10,142 / 38,962 ≈ 0.260 ≈ **26.0 %** |\n| 2023 | 7,232  | 35,820 | 7,232 / 35,820 ≈ 0.202 ≈ **20.2 %** |\n| 2022 | 12,936 | 44,200 | 12,936 / 44,200 ≈ 0.293 ≈ **29.3 %** |\n\n**Answer:**  \n- 2024 Net Profit Margin ≈ **26.0 %**  \n- 2023 Net Profit Margin ≈ **20.2 %**  \n- 2022 Net Profit Margin ≈ **29.3 %**"
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "**Operating Cash Flow Ratio**\n\n\\[\n\\text{Operating Cash Flow Ratio} = \\frac{\\text{Operating Cash Flow}}{\\text{Current Liabilities}}\n\\]\n\n- Operating cash flow (2024) = **\\$12,202** (Table 10, “Net cash provided by operating activities”)  \n- Current liabilities (2024) = **\\$10,504** (Table 7, “Total current liabilities”)\n\n\\[\n\\frac{12,202}{10,504} \\approx 1.16\n\\]\n\n**Result:** **1.16** (times) – the company generated about 1.16 dollars of operating cash flow for every dollar of current liabilities in 2024."
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "**EBITDA = Operating Income + Depreciation + Amortization**\n\n| Year | Operating Income (Table 8) | Depreciation & Amortization (Table 10) | EBITDA |\n|------|----------------------------|------------------------------------------|--------|\n| 2024 | $10,071 | $1,706 | **$11,777** |\n| 2023 | $7,788  | $1,809 | **$9,597** |\n| 2022 | $15,860 | $1,762 | **$17,622** |\n\n*All figures are expressed in the same monetary units used in the tables (millions of dollars).*\n\n**EBITDA for the most recent period (September 29 2024) = $11,777 million.**"
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "**COGS Analysis (Cost of revenues ÷ Total revenues)**  \n\n| Year | Cost of revenues | Total revenues | COGS / Revenue |\n|------|------------------|----------------|---------------|\n| 2024 | $17,060 | $38,962 | **0.438 ≈ 43.8 %** |\n| 2023 | $15,869 | $35,820 | **0.443 ≈ 44.3 %** |\n| 2022 | $18,635 | $44,200 | **0.422 ≈ 42.2 %** |\n\n**Result:**  \n- 2024 COGS ratio ≈ 43.8 %  \n- 2023 COGS ratio ≈ 44.3 %  \n- 2022 COGS ratio ≈ 42.2 %  \n\n(Values are expressed as percentages of revenue.)"
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "**SG&A Analysis (SG&A expenses ÷ Revenue)**  \n\n| Year | SG&A ( $ ) | Revenue ( $ ) | SG&A % of Revenue |\n|------|------------|--------------|-------------------|\n| 2024 | 2,759 | 38,962 | **7.08 %** |\n| 2023 | 2,483 | 35,820 | **6.93 %** |\n| 2022 | 2,570 | 44,200 | **5.81 %** |\n\n*Calculation example (2024):*  \n\\( \\frac{2{,}759}{38{,}962} = 0.0708 \\) → **7.08 %**.  \n\nThe same method is applied for 2023 and 2022."
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "**R&D Analysis (Research & Development ÷ Total Revenue)**  \n\n| Year (as of Sept ) | Research & Development | Total Revenue | R&D / Revenue |\n|--------------------|-----------------------|--------------|--------------|\n| 2024 | $ 8,893 | $ 38,962 | 0.228 ≈ **22.8 %** |\n| 2023 | $ 8,818 | $ 35,820 | 0.247 ≈ **24.7 %** |\n| 2022 | $ 8,194 | $ 44,200 | 0.185 ≈ **18.5 %** |\n\n**Result:**  \n- 2024 R&D expense is about **22.8 %** of revenue.  \n- 2023 R&D expense is about **24.7 %** of revenue.  \n- 2022 R&D expense is about **18.5 %** of revenue."
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "**Interest‑Expense Analysis (Interest Expense ÷ Total Revenue)**  \n\n| Fiscal year | Interest expense (absolute) | Total revenue | Ratio (decimal) | Ratio (%) |\n|-------------|----------------------------|--------------|----------------|-----------|\n| 2024 | $ 697 million | $ 38,962 million | 0.0179 | **1.79 %** |\n| 2023 | $ 694 million | $ 35,820 million | 0.0194 | **1.94 %** |\n| 2022 | $ 490 million | $ 44,200 million | 0.0111 | **1.11 %** |\n\n**Interpretation**  \n- The interest expense consumed **≈ 1.8 %** of revenue in 2024, **≈ 1.9 %** in 2023, and **≈ 1.1 %** in 2022.  \n- The proportion rose from 2022 to 2023, then fell slightly in 2024."
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "**Current Ratio (September 29 2024)**  \n\n\\[\n\\text{Current Ratio} = \\frac{\\text{Total Current Assets}}{\\text{Total Current Liabilities}}\n= \\frac{25{,}231}{10{,}504}\n\\approx 2.40\n\\]\n\n**Result:** ≈ 2.40 × (i.e., current assets are about 2.4 times current liabilities)."
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "**Quick Ratio (Acid‑Test)**  \n\n\\[\n\\text{Quick Ratio} = \\frac{\\text{Current Assets} - \\text{Inventories}}{\\text{Current Liabilities}}\n\\]\n\n| Date | Current Assets | Inventories | Quick Assets (Current – Inventories) | Current Liabilities | Quick Ratio |\n|------|----------------|------------|--------------------------------------|---------------------|-------------|\n| 29 Sep 2024 | \\$25,231 m | \\$6,423 m | \\$18,808 m | \\$10,504 m | **1.79 ×** |\n| 24 Sep 2023 | \\$22,464 m | \\$6,422 m | \\$16,042 m | \\$9,628 m  | **1.67 ×** |\n\n**Result**\n\n- Quick Ratio as of **29 Sep 2024**: **1.79 times**  \n- Quick Ratio as of **24 Sep 2023**: **1.67 times**  \n\n(Units are “times” – a ratio, no monetary units.)"
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "**Working Capital (September 29 2024)**  \n\n\\[\n\\text{Working Capital} = \\text{Total Current Assets} - \\text{Total Current Liabilities}\n\\]\n\n\\[\n= \\$25{,}231 \\;-\\; \\$10{,}504 \\;=\\; \\boxed{\\$14{,}727}\n\\]\n\nSo the company’s working capital as of September 29 2024 is **$14,727** (in the same units as the balance‑sheet figures)."
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "**Debt‑to‑Equity Ratio (2024)**  \n\n\\[\n\\text{Debt‑to‑Equity Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Shareholders' Equity}}\n= \\frac{\\$14{,}634\\ \\text{million}}{\\$21{,}581\\ \\text{million}}\n\\approx 0.68\n\\]\n\n**Result:** **0.68** (ratio, no units)"
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "**Debt‑to‑Asset Ratio**\n\n\\[\n\\text{Debt‑to‑Asset Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Assets}}\n\\]\n\n- Total Debt (Total liabilities measured at fair value) = **$1,088 million**\n- Total Assets (Total assets measured at fair value) = **$10,725 million**\n\n\\[\n\\frac{1{,}088}{10{,}725} \\approx 0.1014\n\\]\n\n**Debt‑to‑Asset Ratio ≈ 0.101 (or 10.1 %)**  \n\n*Dimensionless (ratio of dollars to dollars).*"
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "**Interest Coverage Ratio**\n\n\\[\n\\text{Interest Coverage Ratio} = \\frac{\\text{Operating Income}}{\\text{Interest Expense}}\n\\]\n\nFrom Table 8 (September 29 2024):\n\n- Operating Income = **$10,071** (in the same units as the rest of the statement)\n- Interest Expense = **$697** (the parentheses indicate a negative expense, i.e., a cost)\n\n\\[\n\\frac{10{,}071}{697} \\approx 14.45\n\\]\n\n**Result:** **≈ 14.5 ×** (the company generates about 14.5 dollars of operating income for every dollar of interest expense)."
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "**Inventory Turnover**\n\n\\[\n\\text{Inventory Turnover} = \\frac{\\text{COGS}}{\\text{Average Inventory}}\n\\]\n\n- **COGS (Cost of revenues, 2024)** = $89 million (Table 17)  \n- **Inventories**  \n  - 2024 (Sept 29) = $6,423 million  \n  - 2023 (Sept 24) = $6,422 million (Table 7)\n\n\\[\n\\text{Average Inventory} = \\frac{6,423 + 6,422}{2} = 6,422.5\\ \\text{million}\n\\]\n\n\\[\n\\text{Inventory Turnover} = \\frac{89}{6,422.5} \\approx 0.0139\n\\]\n\n**Result:** **≈ 0.014 times per year**."
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "**Average Accounts Receivable**\n\n\\[\n\\frac{\\text{Accounts Receivable}_{2024} + \\text{Accounts Receivable}_{2023}}{2}\n= \\frac{3{,}929 + 3{,}183}{2}\n= \\frac{7{,}112}{2}\n= 3{,}556\n\\]\n\n**Result:** **$3,556** (in the same monetary units used in the table)."
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "**Days Sales Outstanding (DSO)**  \n\n\\[\n\\text{DSO}= \\frac{\\text{Average Accounts Receivable} \\times 365}{\\text{Revenue}}\n\\]\n\n- **Accounts receivable, net**  \n  - 2024: $3,929$  \n  - 2023: $3,183$  \n\n\\[\n\\text{Average Accounts Receivable}= \\frac{3,929 + 3,183}{2}=3,556\n\\]\n\n- **Total revenue (2024)** from the income statement: $38,962$\n\n\\[\n\\text{DSO}= \\frac{3,556 \\times 365}{38,962}\n          = \\frac{1,297,940}{38,962}\n          \\approx 33.3\\ \\text{days}\n\\]\n\n**Result:** **≈ 33 days** (Days Sales Outstanding)."
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "**Average Accounts Payable**\n\n\\[\n\\frac{\\text{Trade accounts payable (2024)} + \\text{Trade accounts payable (2023)}}{2}\n= \\frac{2{,}584 + 1{,}912}{2}\n= \\frac{4{,}496}{2}\n= 2{,}248\n\\]\n\n**Result:** **$2,248** (in the same monetary units used in the table)."
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "**Accounts Payable Days**\n\n\\[\n\\text{Accounts Payable Days} = \\frac{\\text{Average Accounts Payable} \\times 365}{\\text{COGS}}\n\\]\n\n- Average Accounts Payable  \n  \\[\n  = \\frac{2{,}584\\;(\\text{2024}) + 1{,}912\\;(\\text{2023})}{2}\n  = 2{,}248\n  \\]\n\n- Cost of Goods Sold (COGS) – “Cost of revenues” for 2024  \n  \\[\n  = 89\n  \\]\n\n\\[\n\\text{Accounts Payable Days} = \\frac{2{,}248 \\times 365}{89}\n= \\frac{820{,}520}{89}\n\\approx 9{,}219.3 \\text{ days}\n\\]\n\n**Result:** **≈ 9,219 days**."
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "**Average Net Fixed Assets**  \n\n\\[\n\\frac{\\text{Net Fixed Assets}_{2024} + \\text{Net Fixed Assets}_{2023}}{2}\n= \\frac{4{,}665 + 5{,}042}{2}\n= \\frac{9{,}707}{2}\n= 4{,}853.5\n\\]\n\n**Result:** **$4,853.5** (in the same monetary units used in the table)."
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "**Fixed Asset Turnover**\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Net Fixed Assets}}\n\\]\n\n- Revenue (2024) = **$33,196 million** (Table 3)  \n- Net Fixed Assets (PP&E, net)  \n  - 2024 = **$4,665 million** (Table 7)  \n  - 2023 = **$5,042 million** (Table 7)  \n\n\\[\n\\text{Average Net Fixed Assets} = \\frac{4,665 + 5,042}{2} = \\frac{9,707}{2} = 4,853.5\\ \\text{million}\n\\]\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{33,196}{4,853.5} \\approx 6.84\n\\]\n\n**Answer:** **≈ 6.84 times**."
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "**Average Total Assets**  \n\\[\n\\frac{55{,}154 \\;+\\; 51{,}040}{2} \\;=\\; \\frac{106{,}194}{2} \\;=\\; \\mathbf{53{,}097}\n\\]\n\n**Result:** 53,097 (in the same monetary units as the table, i.e., dollars in millions)."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "**Total Asset Turnover**\n\n\\[\n\\text{Total Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Total Assets}}\n\\]\n\n- Revenue (2024) = **$33,196 million** (Table 3)  \n- Total assets 2024 = **$55,154 million** (Table 7)  \n- Total assets 2023 = **$51,040 million** (Table 7)  \n\n\\[\n\\text{Average Total Assets} = \\frac{55,154 + 51,040}{2} = \\frac{106,194}{2} = 53,097\\ \\text{million}\n\\]\n\n\\[\n\\text{Total Asset Turnover} = \\frac{33,196}{53,097} \\approx 0.625 \\;\\text{times}\n\\]\n\n**Result:** **≈ 0.63 times** (dimensionless)."
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "**Free Cash Flow (FCF)**  \n\n\\[\n\\text{FCF} = \\text{Operating Cash Flow} - \\text{Capital Expenditures}\n\\]\n\n- Operating cash flow (Net cash provided by operating activities) for the year ended Sept 29 2024: **$12,202**  \n- Capital expenditures for the same period: **$1,041**  \n\n\\[\n\\text{FCF} = 12,202 \\;-\\; 1,041 \\;=\\; \\mathbf{11,161}\n\\]\n\n**Free Cash Flow = $11,161** (in the same monetary units as the table values)."
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "Insufficient data."
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "**Book Value per Share (2024)**  \n\n\\[\n\\text{Book Value per Share} = \\frac{\\text{Total Shareholders’ Equity}}{\\text{Total Shares Outstanding}}\n\\]\n\n- Total shareholders’ equity (end‑2024) ≈ **$25,662 million** (derived from the equity reconciliation in Table 11).  \n- Diluted shares outstanding (2024) = **1,130 million** (Table 8).\n\n\\[\n\\frac{25{,}662}{1{,}130} \\approx 22.71\n\\]\n\n**Result:** **≈ $22.71 per share**."
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "**Sales per Share (Revenue ÷ Diluted Shares Outstanding)**  \n\n| Year | Total Revenue | Diluted Shares | Sales per Share |\n|------|---------------|----------------|-----------------|\n| 2024 | 38,962 | 1,130 | 38,962 ÷ 1,130 ≈ **34.48** |\n| 2023 | 35,820 | 1,126 | 35,820 ÷ 1,126 ≈ **31.81** |\n| 2022 | 44,200 | 1,137 | 44,200 ÷ 1,137 ≈ **38.87** |\n\n**Result:**  \n- 2024 Sales per Share ≈ **34.48** (revenue units per share)  \n- 2023 Sales per Share ≈ **31.81**  \n- 2022 Sales per Share ≈ **38.87**  \n\n(Units are the same as the revenue figures provided, e.g., millions of dollars per share if the revenue numbers are in millions.)"
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "Insufficient data."
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "**Earnings Per Share (EPS)**  \n\n\\[\n\\text{EPS} = \\frac{\\text{Net Income}}{\\text{Weighted‑average shares outstanding}}\n\\]\n\n| Year | Net Income ( $ ) | Basic shares (millions) | EPS ( $ ) |\n|------|------------------|------------------------|----------|\n| 2024 | 10,142 | 1,116 | \\( \\frac{10,142}{1,116}=9.09 \\) |\n| 2023 | 7,232  | 1,117 | \\( \\frac{7,232}{1,117}=6.47 \\) |\n| 2022 | 12,936 | 1,123 | \\( \\frac{12,936}{1,123}=11.52 \\) |\n\n**Result (2024)**:  \n\n\\[\n\\boxed{\\text{EPS}_{2024}= \\$9.09 \\text{ per share (basic)}}\n\\]"
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "**Return on Assets (ROA)**  \n\n\\[\n\\text{ROA} = \\frac{\\text{Net Income}}{\\text{Average Total Assets}}\n\\]\n\n- Net Income (2024) = **$10,142** (Table 9)  \n- Total Assets 2024 = **$55,154** (Table 7)  \n- Total Assets 2023 = **$51,040** (Table 7)  \n\n\\[\n\\text{Average Total Assets} = \\frac{55,154 + 51,040}{2} = \\frac{106,194}{2} = 53,097\n\\]\n\n\\[\n\\text{ROA} = \\frac{10,142}{53,097} \\approx 0.191 \\; \\text{or} \\; 19.1\\%\n\\]\n\n**ROA = 19.1 %** (rounded to one decimal place)."
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "**Return on Equity (ROE)**  \n\n\\[\n\\text{ROE} = \\frac{\\text{Net Income}}{\\text{Average Shareholders' Equity}}\n\\]\n\n**2024 calculation**\n\n| Item | Amount (US$ millions) |\n|------|-----------------------|\n| Net income (2024) | 10,142 |\n| Beginning shareholders’ equity (2024) | 21,581 |\n| Ending shareholders’ equity (2024) | 25,687* |\n| Average shareholders’ equity | \\((21,581 + 25,687)/2 = 23,634\\) |\n\n\\[\n\\text{ROE}_{2024} = \\frac{10,142}{23,634} \\approx 0.429 \\; \\text{or} \\; 42.9\\%\n\\]\n\n\\*Ending equity is the sum of ending common‑stock balance (0 $) and ending retained earnings (25,687 $), derived from the changes shown in the table.\n\n**Result:** **ROE ≈ 42.9 %** (for the year ended September 29 2024)."
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "**Return on Invested Capital (ROIC) – 2024**\n\n\\[\n\\text{ROIC}= \\frac{\\text{Net Operating Profit After Tax (NOPAT)}}{\\text{Invested Capital}}\n\\]\n\n**1. Net Operating Profit After Tax (NOPAT)**  \n\nOperating income (2024) = **$10,071 million**  \nIncome‑tax expense (2024) = **$226 million**  \n\n\\[\n\\text{NOPAT}= 10,071 - 226 = \\mathbf{9,845\\;million\\;USD}\n\\]\n\n*(Tax expense is applied to operating income to obtain after‑tax operating profit.)*\n\n**2. Invested Capital**  \n\n- Debt (2024) = **$14,634 million**  \n- Total stockholders’ equity, end of period (2024) = **$25,687 million**  \n- Cash & cash equivalents + marketable securities (2024) = **$13,300 million**  \n\n\\[\n\\text{Invested Capital}= \\text{Debt} + \\text{Equity} - \\text{Cash\\&Equivalents}\n= 14,634 + 25,687 - 13,300 = \\mathbf{27,021\\;million\\;USD}\n\\]\n\n**3. ROIC Calculation**\n\n\\[\n\\text{ROIC}= \\frac{9,845}{27,021}=0.364\\; \\text{(or)}\\; \\mathbf{36.4\\%}\n\\]\n\n---\n\n**Result:** The Return on Invested Capital for the company in fiscal year 2024 is **approximately 36.4 %**."
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "To calculate the Gross Profit Margin, we need to use the formula: (Revenue - COGS) / Revenue.\n\nFrom Table 8, we can find the necessary data:\n- Revenue for 2023 = $134,902 million\n- Cost of Goods Sold (COGS) for 2023 = $25,959 million\n\nPlugging these values into the formula gives us:\nGross Profit Margin = (134,902 - 25,959) / 134,902\n\nFirst, calculate the numerator:\n134,902 - 25,959 = 108,943\n\nThen, divide by the revenue:\n108,943 / 134,902 ≈ 0.8075\n\nTo express this as a percentage, multiply by 100:\n0.8075 * 100 ≈ 80.75%\n\nTherefore, the Gross Profit Margin is approximately 80.75%."
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "To calculate the Operating Profit Margin (ROS), we use the formula: Operating Income / Revenue.\n\nFrom Table 1, we can find the necessary data for 2023:\n- Operating Income = $62,871 million\n- Revenue = $133,006 million\n\nUsing the formula:\nOperating Profit Margin (ROS) = Operating Income / Revenue\n= $62,871 million / $133,006 million\n= 0.473 or 47.3%\n\nTherefore, the Operating Profit Margin (ROS) for 2023 is 47.3%."
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "To calculate the Net Profit Margin, we use the formula: Net Income / Revenue.\n\nFrom Table 3 (Page 75), we can find the necessary data for the year 2023:\n- Net Income = $39,098 million\n- Revenue = $134,902 million\n\nPlugging these values into the formula gives us:\nNet Profit Margin = Net Income / Revenue = $39,098 / $134,902\n\nCalculating this gives:\nNet Profit Margin ≈ 0.290 or 29.0%\n\nTherefore, the Net Profit Margin for the year 2023 is approximately 29.0%."
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "To calculate the Operating Cash Flow Ratio, we need to use the formula: Operating Cash Flow / Current Liabilities.\n\nFrom Table 11, we can find the Operating Cash Flow: $71,113 (Net cash provided by operating activities for 2023).\n\nFrom Table 7, we can find the Current Liabilities: $31,960 (Total current liabilities for 2023).\n\nNow, let's calculate the Operating Cash Flow Ratio:\nOperating Cash Flow Ratio = Operating Cash Flow / Current Liabilities\n= $71,113 / $31,960\n= 2.22\n\nThe final answer is: $\\boxed{2.22}$"
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "To calculate EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization), we use the formula:\n\nEBITDA = Operating Income + Depreciation + Amortization\n\nFrom Table 4, we can find the Operating Income for 2023:\n- Income from operations = $35 (in millions, as the table implies percentages but these are actual values in millions based on the context of financial reporting)\n\nTo find Depreciation and Amortization, we look at Tables 20 and 25:\n\n1. **Depreciation**: This can be inferred from the change in Accumulated Depreciation in Table 20.\n   - Accumulated depreciation for 2023 = $33,134 million\n   - Accumulated depreciation for 2022 = $24,975 million\n   - Therefore, Depreciation for 2023 = $33,134 million - $24,975 million = $8,159 million\n\n2. **Amortization**: This can be found in Table 25 by looking at the change in Accumulated Amortization.\n   - Accumulated amortization for 2023 = $430 million\n   - Accumulated amortization for 2022 = $458 million (for the finite-lived assets, as we don't have a direct previous year's value to calculate the difference)\n   - However, since we are calculating for 2023 and need the amortization expense for that year, we should directly consider the amortization amounts. The table doesn't provide a straightforward previous year's net carrying amount to calculate the annual amortization directly without assuming it's the difference in accumulated amortization, which might not be accurate without knowing the exact previous year's gross and net values. \n   - Given this complexity and focusing on available data for 2023:\n     - The total amortization expense can actually be derived from the change in accumulated amortization over the year, but since we don't have a clear \"previous\" year's value to subtract from (as my initial approach suggested), let's correct the understanding: \n       - For Acquired technology, the amortization would be based on its gross carrying amount and useful life. However, without explicit annual amortization amounts or a clear indication of how much was amortized in 2023 specifically from Table 25, we must recognize that typically, amortization expense for intangible assets like these would be calculated based on their remaining useful lives and gross carrying values at the start of the period.\n       - Since we aim to calculate EBITDA for 2023 and lack explicit annual amortization figures or a clear method to derive them directly from Table 25 without making assumptions about previous years' balances, let's proceed with what we can infer directly.\n\nGiven these considerations and aiming to follow instructions precisely while acknowledging potential gaps in direct calculation steps due to table interpretations:\n\n- **Operating Income** for 2023 = $35 million (from Table 4)\n- **Depreciation** for 2023 = $8,159 million (calculated from the change in accumulated depreciation)\n\nFor **Amortization**, without explicit figures or a clear method to calculate it directly from provided tables for 2023 specifically and recognizing my earlier approach might have led to confusion by suggesting calculations not directly supported by the tables:\n\nLet's focus on what we can accurately derive:\n- EBITDA = Operating Income + Depreciation + Amortization\n\nGiven the potential misunderstanding in calculating amortization directly and focusing on provided data:\n- We acknowledge the need for explicit amortization figures or a clearer method to calculate it from the given tables, which seems not directly feasible based on the information provided.\n\nThus, with the direct values we have:\n- Operating Income = $35 million\n- Depreciation = $8,159 million\n\nAnd recognizing the gap in calculating Amortization due to interpretation and direct data availability:\n\nThe precise calculation of EBITDA including accurate amortization figures for 2023 cannot be completed as intended without making assumptions beyond the provided table data. \n\nHowever, adding the known components:\n- $35 million (Operating Income) + $8,159 million (Depreciation) = $8,194 million\n\nWithout the explicit Amortization figure for 2023 or a clear method to calculate it from the tables as provided and aiming to adhere strictly to instructions:\n\nThe final answer is: $\\boxed{8194}$"
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "To perform the COGS (Cost of Goods Sold) analysis, we use the formula: COGS / Revenue.\n\nFrom Table 3, we can find the necessary data for 2023:\n- COGS = $25,959 million\n- Revenue = $134,902 million\n\nPlugging these values into the formula gives us:\nCOGS / Revenue = $25,959 million / $134,902 million\n\nPerforming the calculation:\n= 0.1925 or approximately 19.25%\n\nTherefore, the COGS analysis for 2023 is approximately 19.25%."
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "To calculate the SG&A (Selling, General & Administrative) Analysis, we need to use the formula: Selling, General & Administrative Expenses / Revenue.\n\nFrom Table 3, we can find the relevant data:\n- Selling and Marketing expenses = $12,301 million\n- General and Administrative expenses = $11,408 million\n- Total SG&A Expenses = Selling and Marketing expenses + General and Administrative expenses = $12,301 million + $11,408 million = $23,709 million\n- Revenue = $134,902 million\n\nNow, let's calculate the SG&A Analysis:\nSG&A Analysis = Total SG&A Expenses / Revenue = $23,709 million / $134,902 million ≈ 0.176 or 17.6%\n\nThe final answer is: $\\boxed{17.6%}$"
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "To calculate the R&D Analysis, we need to use the formula: Research and Development / Revenue.\n\nFrom Table 3 (Page 75), we can find the necessary data:\n- Research and development: $38,483 (in millions)\n- Revenue: $134,902 (in millions)\n\nNow, let's perform the calculation:\nR&D Analysis = Research and Development / Revenue\n= $38,483 / $134,902\n≈ 0.285\n\nThe R&D Analysis is approximately 0.285 or 28.5% of revenue."
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "To calculate the Interest Expense Analysis, we need to use the formula: Interest Expense / Revenue.\n\nFrom Table 6, we can find the Interest Expense:\nInterest Expense for 2023 = $446 million (from Table 6)\nInterest Expense for 2022 = $185 million (from Table 6)\n\nFrom Table 4, we can find the Revenue:\nRevenue for 2023 = $100 % (this is a percentage and not an absolute value, but since it's 100% of the total revenue, we need to look at the actual numbers which are not provided directly in this table. However, given that costs and expenses are provided as percentages of revenue, we can infer revenue from these. For example, if Total costs and expenses for 2023 = 65 and this is 65% of revenue, then revenue can be calculated indirectly.)\nRevenue for 2022 = $100 % (similar to 2023, actual numbers not directly provided)\n\nHowever, since the actual revenue values are not directly given in Table 4 but rather as percentages, we need a different approach. Looking at Table 6 again:\nInterest income and expense are given in millions of dollars, suggesting that if we had an absolute value for revenue (which should also be in millions to match the units of interest expense), we could perform the calculation directly.\n\nGiven the structure of the problem and the data provided, it seems there might have been a misunderstanding in interpreting \"Revenue\" from Table 4 since specific dollar amounts are not given. For the purpose of this calculation and following the instructions strictly, let's focus on what can be derived:\n\nIf we consider the need for an actual revenue figure to calculate Interest Expense / Revenue accurately and note that such figures aren't directly provided or easily inferred without additional context (like total dollar amounts for revenues), we face a challenge.\n\nHowever, Table 6 provides interest expense in dollars ($446 million for 2023 and $185 million for 2022), but without explicit revenue figures in dollars from the tables provided, we cannot accurately calculate the ratio as requested.\n\nGiven this analysis and adhering strictly to the format and instructions:\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "To calculate the Current Ratio, we use the formula: Current Assets / Current Liabilities.\n\nFrom Table 7 (Page 90), we find:\n- Total current assets = $85,365 (for 2023)\n- Total current liabilities = $31,960 (for 2023)\n\nUsing the formula:\nCurrent Ratio = Total current assets / Total current liabilities\n= $85,365 / $31,960\n\nCalculating this gives:\nCurrent Ratio ≈ 2.67\n\nTherefore, the Current Ratio for 2023 is approximately 2.67."
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "To calculate the Quick Ratio (Acid-Test), we need to use the formula:\n\nQuick Ratio = (Current Assets - Inventory) / Current Liabilities\n\nFrom Table 7, we have:\n- Current Assets = $85,365\n- Current Liabilities = $31,960\n\nHowever, the table does not provide a direct value for Inventory. Since inventory is typically classified under current assets and the provided tables do not explicitly list \"Inventory\" as a separate item within current assets, we must infer that either the inventory value is included within another category (like \"Prepaid expenses and other current assets\") or it is not directly provided.\n\nGiven the information available in Table 7 and the lack of explicit inventory data, we cannot accurately calculate the Quick Ratio using the standard formula because a crucial component (Inventory) is not separately identified. Therefore, based on the provided tables, we do not have sufficient data to perform the calculation as intended by the formula.\n\nThe answer is: Insufficient data"
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "To calculate the Working Capital, we use the formula:\n\nWorking Capital = Current Assets - Current Liabilities\n\nFrom Table 7 (Page 90), we find:\n- Total current assets for 2023: $85,365\n- Total current liabilities for 2023: $31,960\n\nPlugging these values into the formula gives us:\n\nWorking Capital = $85,365 - $31,960 = $53,405\n\nTherefore, the Working Capital as of December 31, 2023, is $53,405."
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "To calculate the Debt-to-Equity Ratio, we need to find the Total Debt and Total Shareholders' Equity.\n\nFrom Table 7 (Page 90), under \"Liabilities and stockholders' equity\", we can find:\n- Total liabilities = $76,455 million\n- This includes current liabilities and non-current liabilities. For debt, we are specifically interested in Long-term debt which is listed as $18,385 million. However, to get the total debt, we should consider all debt components, including current portions if any.\n\nThe breakdown of debt from Table 7 (Page 90) under \"Current liabilities:\" and \"Non-current liabilities\" is:\n- Current portion of long-term debt is not explicitly separated but can be inferred as part of \"Accrued expenses and other current liabilities\". However, for simplicity in calculation without specific details on the current portion of long-term debt, we'll proceed with what's directly provided.\n- Long-term debt = $18,385 million\n- Other liabilities might include some debt components not explicitly labeled as such, but without clear indication, we focus on \"Long-term debt\" for our primary calculation.\n\nFor Total Shareholders' Equity:\n- From Table 7 (Page 90), under \"Liabilities and stockholders' equity\", Total shareholders' equity can be calculated by subtracting Total liabilities from Total assets.\n- Total assets = $229,623 million\n- Total liabilities = $76,455 million\n- Therefore, Total Shareholders' Equity = Total assets - Total liabilities = $229,623 million - $76,455 million = $153,168 million\n\nNow, calculating the Debt-to-Equity Ratio using the formula:\nDebt-to-Equity Ratio = Total Debt / Total Shareholders' Equity\n\nGiven that we are focusing on Long-term debt for our calculation due to the explicit figures provided and assuming other debt components are either included within current liabilities without clear separation or not directly relevant to this simplified calculation:\nTotal Debt (for our purposes) = $18,385 million (Long-term debt)\nTotal Shareholders' Equity = $153,168 million\n\nDebt-to-Equity Ratio = $18,385 million / $153,168 million ≈ 0.12\n\nTherefore, the Debt-to-Equity Ratio is approximately 0.12 or 12%."
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "To calculate the Debt-to-Asset Ratio, we need to use the formula: Total Debt / Total Assets.\n\nFrom Table 7 (Page 90), we can find the total assets and total liabilities. \n\nTotal Assets = $229,623 (as of December 31, 2023)\nTotal Liabilities = $76,455 (as of December 31, 2023)\n\nThe formula for Debt-to-Asset Ratio requires Total Debt. Since Total Debt is not directly provided, we will consider Total Liabilities as a proxy for Total Debt because it encompasses all the debt obligations, including both short-term and long-term debts.\n\nThus, using Total Liabilities as our Total Debt:\nTotal Debt = $76,455\n\nNow, calculating the Debt-to-Asset Ratio:\n\nDebt-to-Asset Ratio = Total Debt / Total Assets\n= $76,455 / $229,623\n≈ 0.333\n\nTherefore, the Debt-to-Asset Ratio is approximately 0.333 or 33.3%."
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "To calculate the Interest Coverage Ratio, we need to use the formula: Operating Income / Interest Expense.\n\nFrom Table 4 (Page 75), we can find the operating income for 2023: $35 (as a percentage of revenue, but since revenue is $100, this translates directly to $35 in millions).\n\nFrom Table 32 (Page 122), we find the interest expense for 2023: $(446) million.\n\nNow, let's calculate the Interest Coverage Ratio:\n\nInterest Coverage Ratio = Operating Income / Interest Expense\n= $35 / $0.446\nHowever, since the operating income is given as a percentage of revenue which directly translates to millions in this context and interest expense is already in millions, we should directly use these values without further conversion:\n= $35,000,000 / $446,000,000\n\nInterest Coverage Ratio = 35 / 0.446 (in billions for simplicity)\n≈ 78.48\n\nSo, the Interest Coverage Ratio for 2023 is approximately 78.48 times."
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "To calculate the Inventory Turnover, we need to use the formula: COGS / Average Inventory.\n\nFrom Table 8, we can find the Cost of Goods Sold (COGS) for 2023 and 2022:\n- COGS 2023: $25,959 million\n- COGS 2022: $25,249 million\n\nHowever, to calculate the Average Inventory, we need the inventory values for the beginning and end of each year. Unfortunately, the provided tables do not directly give us the inventory values. \n\nGiven the information available in Table 7, which lists assets including \"Prepaid expenses and other current assets\" but does not explicitly mention inventory, and considering that inventory is typically classified under current assets, we can infer that the necessary detailed breakdown of current assets to specifically identify inventory is not provided.\n\nTherefore, based on the data provided in the tables, we cannot calculate the Average Inventory because the specific value for inventory is not given. Thus, we cannot perform the calculation for Inventory Turnover as per the formula.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Receivable, we need the Accounts Receivable for the given year and the previous year.\n\nFrom Table 7:\n- Accounts Receivable for 2023 = $16,169\n- Accounts Receivable for 2022 = $13,466\n\nUsing the formula: (Accounts Receivable for 2023 + Accounts Receivable for 2022) / 2\n= ($16,169 + $13,466) / 2\n= $29,635 / 2\n= $14,817.50\n\nThe Average Accounts Receivable is $14,817.50."
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "To calculate the Days Sales Outstanding (DSO), we need to use the formula:\n\nDSO = (Average Accounts Receivable × 365) / Revenue\n\nFrom Table 7, we can find the accounts receivable for 2023 and 2022:\n- 2023: $16,169 million\n- 2022: $13,466 million\n\nTo find the average accounts receivable, we take the average of these two values:\nAverage Accounts Receivable = ($16,169 million + $13,466 million) / 2\nAverage Accounts Receivable = $29,635 million / 2\nAverage Accounts Receivable = $14,817.5 million\n\nFrom Table 1 or Table 5, we can find the revenue for 2023:\n- Revenue in 2023: $133,006 million (from Table 1) or $134,902 million (from Table 5). For consistency with the formula requiring a single revenue figure and given that both tables provide slightly different figures due to the inclusion of different components of revenue, we'll use the $133,006 million from Table 1 as it directly matches a year's total revenue without additional breakdowns.\n\nNow, let's calculate DSO:\nDSO = ($14,817.5 million × 365) / $133,006 million\n\nFirst, calculate $14,817.5 million × 365:\n$14,817.5 million × 365 = $5,404,837.5 million\n\nThen, divide by $133,006 million:\nDSO = $5,404,837.5 million / $133,006 million\nDSO ≈ 40.7 days\n\nThe final answer is: $\\boxed{41}$"
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Payable, we need the Accounts Payable for the given year and the previous year.\n\nFrom Table 7:\n- Accounts Payable for 2023 = $4,849\n- Accounts Payable for 2022 = $4,990\n\nUsing the formula: (Accounts Payable for given year + Accounts Payable for previous year) / 2\n= ($4,849 + $4,990) / 2\n= $9,839 / 2\n= $4,919.50\n\nThe Average Accounts Payable is $4,919.50."
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "To calculate the Accounts Payable Days, we need to use the formula:\n\nAccounts Payable Days = (Average Accounts Payable × 365) / COGS\n\nFrom Table 7, we can find the Accounts Payable for 2023 and 2022:\n- 2023: $4,849\n- 2022: $4,990\n\nTo find the Average Accounts Payable, we take the average of these two values:\nAverage Accounts Payable = ($4,849 + $4,990) / 2 = $9,839 / 2 = $4,919.50\n\nFrom Table 4, we can find the COGS (Cost of Goods Sold) for 2023 and 2022. However, the table provides percentages rather than absolute values for costs and expenses. The Cost of revenue is given as a percentage of revenue:\n- 2023: 19% of revenue\n- 2022: 22% of revenue\n\nBut since we don't have the exact revenue figures in monetary terms from the provided tables, we cannot directly calculate COGS in dollars.\n\nGiven this situation and following the instructions to only use data from the provided tables, we find that we lack specific information necessary for calculating COGS in dollar terms. Therefore, we cannot accurately compute the Accounts Payable Days as intended by the formula due to insufficient data regarding revenue or direct COGS values.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "To calculate the Average Net Fixed Assets, we need the Net Fixed Assets for the given year and the previous year. \n\nFrom Table 7 (Page 90), under the assets section, \"Property and equipment, net\" is given as:\n- $96,587 for 2023\n- $79,518 for 2022\n\nUsing the formula: \nAverage Net Fixed Assets = (Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2\n= ($96,587 + $79,518) / 2\n= $176,105 / 2\n= $88,052.50\n\nThe final answer is: $88,052.50"
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "To calculate the Fixed Asset Turnover, we need to use the formula: Revenue / Average Net Fixed Assets.\n\nFrom Table 1 (Page 61), we can find the revenue for 2023 and 2022:\n- Revenue for 2023: $133,006 million\n- Revenue for 2022: $114,450 million\n\nWe will use the data from Table 20 (Page 111) and Table 7 (Page 90) to calculate the Average Net Fixed Assets. \n- Property and equipment, net for 2023: $96,587 million\n- Property and equipment, net for 2022: $79,518 million\n\nAverage Net Fixed Assets = (Net Fixed Assets for 2023 + Net Fixed Assets for 2022) / 2\nAverage Net Fixed Assets = ($96,587 million + $79,518 million) / 2\nAverage Net Fixed Assets = $176,105 million / 2\nAverage Net Fixed Assets = $88,052.5 million\n\nNow we can calculate the Fixed Asset Turnover:\nFixed Asset Turnover = Revenue for 2023 / Average Net Fixed Assets\nFixed Asset Turnover = $133,006 million / $88,052.5 million\nFixed Asset Turnover ≈ 1.51\n\nThe final answer is: 1.51"
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "To calculate the Average Total Assets, we need the Total Assets for the given year and the previous year.\n\nFrom Table 7 (Page 90), we can find the Total Assets for 2023 and 2022:\n- Total Assets for 2023: $229,623\n- Total Assets for 2022: $185,727\n\nUsing the formula: Average Total Assets = (Total Assets for given year + Total Assets for previous year) / 2\n\nAverage Total Assets = ($229,623 + $185,727) / 2\n\nFirst, calculate the sum: $229,623 + $185,727 = $415,350\n\nThen, divide by 2: $415,350 / 2 = $207,675\n\nThe Average Total Assets is $207,675."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "To calculate the Total Asset Turnover, we need to use the formula: Revenue / Average Total Assets.\n\nFrom Table 1, we can find the revenue for 2023 and 2022:\n- Revenue for 2023: $133,006 million\n- Revenue for 2022: $114,450 million\n\nFrom Table 7, we can find the total assets for 2023 and 2022:\n- Total assets for 2023: $229,623 million\n- Total assets for 2022: $185,727 million\n\nTo calculate the average total assets, we use the formula: (Total assets for 2023 + Total assets for 2022) / 2\n- Average total assets = ($229,623 million + $185,727 million) / 2\n- Average total assets = $415,350 million / 2\n- Average total assets = $207,675 million\n\nNow we can calculate the Total Asset Turnover for 2023:\n- Total Asset Turnover = Revenue for 2023 / Average total assets\n- Total Asset Turnover = $133,006 million / $207,675 million\n- Total Asset Turnover ≈ 0.64\n\nThe final answer is: 0.64"
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "To calculate the Free Cash Flow (FCF), we need to use the formula: Operating Cash Flow - Capital Expenditures.\n\nFrom Table 11, we can find the Operating Cash Flow:\nNet cash provided by operating activities = $71,113 million (for 2023).\n\nCapital Expenditures can be found in the same table under \"Cash flows from investing activities\":\nPurchases of property and equipment = ($27,266) million (for 2023), which represents the capital expenditures.\n\nNow, let's calculate the Free Cash Flow:\nFCF = Operating Cash Flow - Capital Expenditures\n= $71,113 million - $27,266 million\n= $43,847 million\n\nThe answer is: $43,847 million"
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "To calculate the Price-to-Earnings (P/E) Ratio, we need the Market Price per Share and Earnings per Share. The formula for P/E Ratio is:\n\nMarket Price per Share / Earnings per Share\n\nFrom Table 8, we have the Earnings per Share (diluted) for 2023: $14.87.\n\nHowever, the Market Price per Share is not provided in the given tables. \n\nTherefore, the answer is: Insufficient data"
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "To calculate the Book Value per Share, we need to use the formula:\n\nBook Value per Share = Total Shareholders' Equity / Total Shares Outstanding\n\nFrom Table 10 (Page 93), we can find the Total Shareholders' Equity and Total Shares Outstanding for the year 2023.\n\nTotal Shareholders' Equity = $153,168 million\nTotal Shares Outstanding = 2,561 million\n\nNow, let's calculate the Book Value per Share:\n\nBook Value per Share = $153,168 million / 2,561 million\n= $59.79\n\nSo, the Book Value per Share is $59.79."
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "To calculate the Price-to-Book (P/B) Ratio, we need two pieces of information: the Market Price per Share and the Book Value per Share.\n\n1. **Market Price per Share**: This information is not directly provided in the tables. However, to proceed with an example calculation, let's assume a hypothetical market price per share for simplicity, as actual market data is not given. For the purpose of this exercise, we will not calculate this value due to insufficient direct information.\n\n2. **Book Value per Share**: This can be calculated using the Total Stockholders' Equity and the Total Number of Shares Outstanding.\n\nFrom Table 10 (Page 93), for December 31, 2023:\n- Total Stockholders' Equity = $153,168 million\n- Total Number of Shares Outstanding (Class A and Class B Common Stock) = 2,561 million shares\n\nBook Value per Share = Total Stockholders' Equity / Total Number of Shares Outstanding\n= $153,168 million / 2,561 million shares\n= $59.78 per share\n\nWithout the actual Market Price per Share, we cannot accurately calculate the P/B Ratio as per the formula: Market Price per Share / Book Value per Share.\n\nGiven the data provided and the necessity for market price information to calculate the P/B Ratio accurately, the answer must reflect the insufficiency of data for a precise calculation."
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "To calculate the Sales per Share, we need to use the formula: Revenue / Total Shares Outstanding.\n\nFrom Table 8, we can find the total revenue for 2023: $134,902 million.\n\nFrom Table 8, we can also find the weighted-average shares used to compute earnings per share attributable to Class A and Class B common stockholders for 2023: \n- Basic: 2,574 million\n- Diluted: 2,629 million\n\nSince Sales per Share is typically calculated using the diluted number of shares to account for the potential conversion of securities that could increase the total number of shares outstanding, we'll use the diluted shares.\n\nSales per Share = Revenue / Total Shares Outstanding\n= $134,902 million / 2,629 million\n= $51.27\n\nSo, the Sales per Share is $51.27."
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "To calculate the Price-to-Sales (P/S) Ratio, we need the Market Price per Share and Sales per Share.\n\nFrom Table 8, we can find the Sales (Revenue) for 2023: $134,902 million.\n\nWe also need the total number of shares outstanding to calculate Sales per Share. From Table 8, the Weighted-average shares used to compute earnings per share attributable to Class A and Class B common stockholders for 2023 is given as 2,574 (Basic) and 2,629 (Diluted). For simplicity, we'll use the Basic number: 2,574 million shares.\n\nSales per Share = Total Sales / Total Number of Shares\n= $134,902 million / 2,574 million shares\n= $52.38 per share\n\nHowever, to calculate the P/S Ratio, we also need the Market Price per Share, which is not directly provided in the tables. \n\nGiven the insufficient data for the Market Price per Share, we cannot accurately calculate the Price-to-Sales (P/S) Ratio.\n\nThe final answer is: Insufficient data"
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "To calculate the PEG Ratio, we need the P/E Ratio and the Annual EPS Growth Rate.\n\nFirst, let's find the P/E Ratio. The P/E Ratio is calculated by dividing the stock price by the earnings per share (EPS). However, the stock price is not provided in the given tables. \n\nSince we cannot calculate the P/E Ratio due to insufficient data on the current stock price, we cannot proceed with calculating the PEG Ratio as it requires the P/E Ratio.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "To calculate the Dividend Yield, we need two pieces of information: Annual Dividends per Share and Market Price per Share. The formula for Dividend Yield is:\n\nDividend Yield = Annual Dividends per Share / Market Price per Share\n\nLooking at the provided tables, there is no direct information about the Annual Dividends per Share or the Market Price per Share that can be used in the calculation.\n\nTherefore, the answer is: Insufficient data"
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "To calculate the Earnings Per Share (EPS), we need to use the formula:\n\nEPS = Net Income / Weighted Average Shares Outstanding\n\nFrom Table 3, we can find the Net Income for the year 2023:\nNet Income = $39,098 million\n\nFrom Table 8, we can find the Weighted Average Shares Outstanding for the year 2023:\nWeighted Average Shares Outstanding (Basic) = 2,574 million\nWeighted Average Shares Outstanding (Diluted) = 2,629 million\n\nSince EPS can be calculated for both basic and diluted shares, let's calculate both:\n\nEPS (Basic) = Net Income / Weighted Average Shares Outstanding (Basic)\n= $39,098 million / 2,574 million\n= $15.19\n\nEPS (Diluted) = Net Income / Weighted Average Shares Outstanding (Diluted)\n= $39,098 million / 2,629 million\n= $14.87\n\nTherefore, the Earnings Per Share (EPS) for the year 2023 is $15.19 (Basic) and $14.87 (Diluted)."
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "To calculate the Return on Assets (ROA), we need to use the formula: Net Income / Average Total Assets.\n\nFrom Table 3, we can find the Net Income for 2023: $39,098 million.\n\nFrom Table 7, we can find the Total Assets for 2023 and 2022: $229,623 million and $185,727 million, respectively.\n\nTo calculate the Average Total Assets, we use the formula: (Total Assets 2023 + Total Assets 2022) / 2.\nAverage Total Assets = ($229,623 million + $185,727 million) / 2 = $415,350 million / 2 = $207,675 million.\n\nNow, we can calculate the ROA:\nROA = Net Income / Average Total Assets = $39,098 million / $207,675 million = 0.188 or 18.8%.\n\nThe answer is: 18.8%"
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "To calculate the Return on Equity (ROE), we need to use the formula: Net Income / Average Shareholders' Equity.\n\nFrom Table 9, we can find the net income for the years 2021, 2022, and 2023:\n- 2021: $39,370 million\n- 2022: $23,200 million\n- 2023: $39,098 million\n\nFrom Table 10, we can find the total shareholders' equity for the years 2021, 2022, and 2023:\n- 2021: $124,879 million\n- 2022: $125,713 million\n- 2023: $153,168 million\n\nTo calculate the average shareholders' equity for each year, we need the equity values at the beginning and end of each period. However, since we only have the ending values for each year, we can approximate the average by using the ending value of the previous year as the beginning value for the current year.\n\n- For 2021: Average = ($128,290 million + $124,879 million) / 2 = $126,584.5 million\n- For 2022: Average = ($124,879 million + $125,713 million) / 2 = $125,296 million\n- For 2023: Average = ($125,713 million + $153,168 million) / 2 = $139,440.5 million\n\nNow, let's calculate the ROE for each year:\n- 2021: ROE = $39,370 million / $126,584.5 million ≈ 0.311 or 31.1%\n- 2022: ROE = $23,200 million / $125,296 million ≈ 0.185 or 18.5%\n- 2023: ROE = $39,098 million / $139,440.5 million ≈ 0.280 or 28.0%\n\nSince the question does not specify a particular year for the calculation, I will provide the ROE for the most recent year available, which is 2023.\n\nThe final answer is: $\\boxed{0.280}$"
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "To calculate the Return on Invested Capital (ROIC), we need two pieces of information: Net Operating Profit After Tax (NOPAT) and Invested Capital.\n\n1. **Net Operating Profit After Tax (NOPAT):** This can be calculated using the data from Table 3. We start with the Income before provision for income taxes and then subtract the Provision for income taxes to get the Net income. However, to get NOPAT, we should ideally adjust the net income for non-operating items. From Table 3, for 2023:\n   - Income before provision for income taxes = $47,428 million\n   - Provision for income taxes = $8,330 million\n   - Therefore, Net income = $47,428 million - $8,330 million = $39,098 million\n\n   Since we don't have explicit non-operating items to adjust for in the provided tables (like interest income or expense that's not part of operations), we'll proceed with the understanding that our NOPAT is approximated by the net income, acknowledging this might not perfectly represent NOPAT without further adjustments.\n\n2. **Invested Capital:** This includes both debt and equity. From Table 7 for 2023:\n   - Total liabilities = $76,455 million\n   - Total assets = $229,623 million\n   - To find the total equity (which is part of invested capital), we subtract total liabilities from total assets: $229,623 million - $76,455 million = $153,168 million\n\n   Invested Capital = Debt + Equity. Here, debt includes all liabilities, and equity is as calculated:\n   - Invested Capital = $76,455 million (Total liabilities) + $153,168 million (Equity) = $229,623 million\n\nHowever, for the purpose of calculating ROIC, we typically consider only the capital that is invested in operations, which might not include all liabilities (such as deferred taxes or certain non-interest-bearing liabilities). Given the data provided, we'll use total liabilities and equity as a proxy for invested capital.\n\n**ROIC Calculation:**\n\nGiven the potential approximation in NOPAT and the broad definition of Invested Capital used here:\n- NOPAT ≈ Net income = $39,098 million\n- Invested Capital = $229,623 million\n\nROIC = NOPAT / Invested Capital = $39,098 million / $229,623 million\n\nROIC ≈ 0.170 or 17.0%\n\nTherefore, the Return on Invested Capital (ROIC) is approximately **17.0%**."
+    }
+]

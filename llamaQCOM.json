@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "To calculate the Gross Profit Margin, we need to use the formula: (Revenue - COGS) / Revenue.\n\nFrom Table 8, we can find the necessary data:\n- Revenue: $38,962 (Total revenues)\n- COGS: $17,060 (Cost of revenues)\n\nNow, let's perform the calculation:\nGross Profit Margin = (Revenue - COGS) / Revenue\n= ($38,962 - $17,060) / $38,962\n= $21,902 / $38,962\n= 0.561 or 56.1%\n\nThe final answer is: 56.1%"
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "To calculate the Operating Profit Margin (ROS), we need to use the formula: Operating Income / Revenue.\n\nFrom Table 8, we can find the operating income and revenue for 2024:\n- Operating income = $10,071 million\n- Total revenues = $38,962 million\n\nUsing the formula:\nOperating Profit Margin (ROS) = Operating Income / Revenue\n= $10,071 million / $38,962 million\n= 0.258 or 25.8%\n\nTherefore, the Operating Profit Margin (ROS) is 25.8%."
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "To calculate the Net Profit Margin, we need to use the formula: Net Income / Revenue.\n\nFrom Table 8, we can find the Net Income and Total Revenues for September 29, 2024:\n- Net Income = $10,142\n- Total Revenues = $38,962\n\nUsing the formula:\nNet Profit Margin = Net Income / Revenue\n= $10,142 / $38,962\n= 0.260 or 26.0%\n\nThe answer is: 26.0%"
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "To calculate the Operating Cash Flow Ratio, we need two pieces of information: the Operating Cash Flow and the Current Liabilities.\n\nFrom Table 10, we can find the Operating Cash Flow for September 29, 2024:\n- Net cash provided by operating activities = $12,202 million\n\nFrom Table 7, we can find the Current Liabilities for September 29, 2024:\n- Total current liabilities = $10,504 million\n\nNow, let's apply the formula:\nOperating Cash Flow Ratio = Operating Cash Flow / Current Liabilities\n= $12,202 million / $10,504 million\n= 1.16\n\nThe final answer is: 1.16"
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "To calculate EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization), we use the formula:\n\nEBITDA = Operating Income + Depreciation + Amortization\n\nFrom Table 8, we find:\n- Operating Income for September 29, 2024: $10,071\n\nFrom Table 10, we find:\n- Depreciation and amortization expense for September 29, 2024: $1,706\n\nThus, the EBITDA calculation is:\nEBITDA = $10,071 (Operating Income) + $1,706 (Depreciation and Amortization)\n\nEBITDA = $11,777\n\nThe final answer is: $11,777"
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "To perform the COGS (Cost of Goods Sold) analysis using the given formula, we need the Cost of Goods Sold and Revenue values. \n\nFrom Table 8, we have:\n- Cost of revenues (COGS) for 2024: $17,060 million\n- Total revenues for 2024: $38,962 million\n\nUsing the formula COGS / Revenue, we calculate:\n\nCOGS Analysis = $17,060 million / $38,962 million\n\nPerforming the calculation gives us:\n\nCOGS Analysis ≈ 0.438 or 43.8%\n\nTherefore, the COGS analysis for 2024 is approximately 43.8%."
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "To calculate the SG&A Analysis, we need to use the formula: Selling, General & Administrative Expenses / Revenue.\n\nFrom Table 8, we can find the necessary data:\n- Selling, general and administrative expenses: $2,759 (in millions)\n- Total revenues: $38,962 (in millions)\n\nNow, let's perform the calculation:\nSG&A Analysis = $2,759 / $38,962 ≈ 0.071 or 7.1%\n\nThe final answer is: $\\boxed{7.1%}$"
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "To calculate the R&D Analysis, we need to use the formula: Research and Development / Revenue.\n\nFrom Table 8, we can find the values for Research and Development and Revenue for the year 2024:\n- Research and Development: $8,893\n- Total revenues: $38,962\n\nNow, let's perform the calculation:\nR&D Analysis = Research and Development / Revenue = $8,893 / $38,962 ≈ 0.228\n\nThe final answer is: 0.228 or 22.8%"
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "To calculate the Interest Expense Analysis, we need to use the formula: Interest Expense / Revenue.\n\nFrom Table 8, we can find the Interest Expense and Revenue for 2024:\n- Interest Expense = $697 million (as a negative value, but we'll use the absolute value for calculation)\n- Total Revenues = $38,962 million\n\nNow, let's calculate the Interest Expense Analysis:\nInterest Expense Analysis = Interest Expense / Revenue\n= $697 million / $38,962 million\n= 0.0179 or approximately 1.79%\n\nThe final answer is: 1.79%"
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "To calculate the Current Ratio, we need to divide the Total Current Assets by the Total Current Liabilities.\n\nFrom Table 7, we have:\nTotal Current Assets = $25,231 million\nTotal Current Liabilities = $10,504 million\n\nCurrent Ratio = Total Current Assets / Total Current Liabilities\n= $25,231 million / $10,504 million\n= 2.40\n\nThe answer is: 2.40"
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "To calculate the Quick Ratio (Acid-Test), we need to use the formula: \n\n(Current Assets - Inventory) / Current Liabilities\n\nFrom Table 7, we have:\n- Current Assets = $25,231\n- Inventory = $6,423\n- Current Liabilities = $10,504\n\nPlugging these values into the formula:\n\nQuick Ratio = ($25,231 - $6,423) / $10,504\nQuick Ratio = $18,808 / $10,504\nQuick Ratio ≈ 1.79\n\nThe final answer is: 1.79"
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "To calculate the Working Capital, we use the formula: Current Assets - Current Liabilities.\n\nFrom Table 7, we find:\n- Total current assets = $25,231 million\n- Total current liabilities = $10,504 million\n\nWorking Capital = Current Assets - Current Liabilities\n= $25,231 million - $10,504 million\n= $14,727 million\n\nThe final answer is: $14,727 million"
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "To calculate the Debt-to-Equity Ratio, we need the Total Debt and Total Shareholders' Equity.\n\nFrom Table 7 (Page 60), under LIABILITIES AND STOCKHOLDERS’ EQUITY, we find:\n- Total liabilities = $28,880 million\n- However, for total debt, we should consider short-term debt and long-term debt.\n  - Short-term debt = $1,364 million\n  - Long-term debt = $13,270 million\n- Total Debt = Short-term debt + Long-term debt = $1,364 million + $13,270 million = $14,634 million\n\nAnd for Total Shareholders' Equity:\n- From Table 11 (Page 64), we see the total stockholders’ equity at the end of the period for September 29, 2024, is $26,074 million ($490 million for Common stock and paid-in capital + $25,584 million for Retained earnings, calculated as $20,733 million beginning balance + $10,142 million net income - $1,394 million repurchases and retirements - $3,794 million dividends, but we directly use the provided ending balance for simplicity).\n- However, looking closely at Table 11, the correct figure to use for Total Shareholders' Equity as of September 29, 2024, should directly consider the beginning balance and changes. The direct value is not explicitly broken down in the table as previously suggested, so we refer back to the provided data:\n- Total stockholders’ equity = $21,581 million (beginning) + net changes. However, for simplicity and adherence to the format, let's correctly identify it from Table 7: Total assets - Total liabilities = Total Shareholders' Equity.\n- Total assets = $55,154 million\n- Total liabilities = $28,880 million\n- Total Shareholders' Equity = Total assets - Total liabilities = $55,154 million - $28,880 million = $26,274 million\n\nNow, calculating the Debt-to-Equity Ratio:\nDebt-to-Equity Ratio = Total Debt / Total Shareholders' Equity\n= $14,634 million / $26,274 million\n≈ 0.557\n\nThe final answer is: $\\boxed{0.557}$"
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "To calculate the Debt-to-Asset Ratio, we need to use the formula: Total Debt / Total Assets.\n\nFrom Table 7 (Page 60), we can find the Total Assets:\nTotal assets = $55,154 (in millions)\n\nFrom Table 4 (Page 46) or Table 18 (Page 79), we can find the Total Debt:\nTotal debt = $14,634 (in millions)\n\nNow, let's calculate the Debt-to-Asset Ratio:\nDebt-to-Asset Ratio = Total Debt / Total Assets\n= $14,634 / $55,154\n= 0.265\n\nThe final answer is: 0.265"
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "To calculate the Interest Coverage Ratio, we need two values: Operating Income and Interest Expense. \n\nFrom Table 8 (Page 61), we can find these values for September 29, 2024:\n- Operating Income = $10,071\n- Interest Expense = $697\n\nUsing the formula: Interest Coverage Ratio = Operating Income / Interest Expense\n\nInterest Coverage Ratio = $10,071 / $697 ≈ 14.44\n\nTherefore, the Interest Coverage Ratio is approximately 14.44."
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "To calculate the Inventory Turnover, we need to use the formula: COGS / Average Inventory.\n\nFrom Table 8, we can find the Cost of Goods Sold (COGS) for September 29, 2024: $17,060.\n\nTo find the Average Inventory, we need to take the average of the inventory at the beginning and end of the period. From Table 7, we have:\n\n- Inventories at September 29, 2024: $6,423\n- Inventories at September 24, 2023: $6,422\n\nAverage Inventory = (Inventories at September 29, 2024 + Inventories at September 24, 2023) / 2\n= ($6,423 + $6,422) / 2\n= $12,845 / 2\n= $6,422.5\n\nNow we can calculate the Inventory Turnover:\nInventory Turnover = COGS / Average Inventory\n= $17,060 / $6,422.5\n≈ 2.66\n\nThe final answer is: 2.66"
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Receivable, we need the Accounts Receivable for the given year and the previous year.\n\nFrom Table 7:\n- Accounts Receivable for September 29, 2024 = $3,929 million\n- Accounts Receivable for September 24, 2023 = $3,183 million\n\nUsing the formula: (Accounts Receivable for given year + Accounts Receivable for previous year) / 2\n= ($3,929 million + $3,183 million) / 2\n= $7,112 million / 2\n= $3,556 million\n\nThe Average Accounts Receivable is $3,556 million."
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "To calculate the Days Sales Outstanding (DSO), we need to use the formula:\n\nDSO = (Average Accounts Receivable × 365) / Revenue\n\nFrom Table 7, we can find the accounts receivable for 2024 and 2023:\n- Accounts receivable (2024) = $3,929 million\n- Accounts receivable (2023) = $3,183 million\n\nTo calculate the average accounts receivable, we take the average of these two values:\nAverage Accounts Receivable = ($3,929 million + $3,183 million) / 2\nAverage Accounts Receivable = $7,112 million / 2\nAverage Accounts Receivable = $3,556 million\n\nFrom Table 3, we find the total revenue for 2024:\n- Total revenues (2024) = $33,196 million\n\nNow, we can calculate the DSO using the formula:\nDSO = ($3,556 million × 365) / $33,196 million\nDSO ≈ $1,297,620 million / $33,196 million\nDSO ≈ 39.06 days\n\nThe final answer is: 39"
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "To calculate the Average Accounts Payable, we need the Accounts Payable for the given year and the previous year. \n\nFrom Table 7, under Current liabilities, we find:\n- Trade accounts payable for September 29, 2024: $2,584 million\n- Trade accounts payable for September 24, 2023: $1,912 million\n\nUsing the formula: (Accounts Payable for given year + Accounts Payable for previous year) / 2\n= ($2,584 million + $1,912 million) / 2\n= $4,496 million / 2\n= $2,248 million\n\nThe Average Accounts Payable is $2,248 million."
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "To calculate the Accounts Payable Days, we need to use the formula:\n\nAccounts Payable Days = (Average Accounts Payable × 365) / COGS\n\nFrom Table 7, we can find the Accounts Payable for September 29, 2024, and September 24, 2023:\n- September 29, 2024: $2,584\n- September 24, 2023: $1,912\n\nTo calculate the Average Accounts Payable, we take the average of these two values:\nAverage Accounts Payable = ($2,584 + $1,912) / 2 = $4,496 / 2 = $2,248\n\nFrom Table 8, we find the COGS (Cost of revenues) for September 29, 2024:\n- COGS for September 29, 2024: $17,060\n\nNow, we can calculate the Accounts Payable Days:\nAccounts Payable Days = ($2,248 × 365) / $17,060\n\nPerforming the calculation:\n= $819,220 / $17,060\n≈ 48.00 days\n\nThe final answer is: $\\boxed{48}$"
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "To calculate the Average Net Fixed Assets, we need the Net Fixed Assets for the given year and the previous year. \n\nFrom Table 7 (Page 60), under the assets section, \"Property, plant and equipment, net\" is $4,665 for September 29, 2024, and $5,042 for September 24, 2023.\n\nUsing the formula: \nAverage Net Fixed Assets = (Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2\n= ($4,665 + $5,042) / 2\n= $9,707 / 2\n= $4,853.5\n\nThe final answer is: $4,853.5 million"
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "To calculate the Fixed Asset Turnover, we need to use the formula: Revenue / Average Net Fixed Assets.\n\nFrom Table 3, we can find the total revenues for 2024 and 2023:\n- Total revenues for 2024 = $33,196 million\n- Total revenues for 2023 = $30,382 million\n\nFrom Table 7, we can find the net fixed assets (Property, plant and equipment, net) for September 29, 2024, and September 24, 2023:\n- Net fixed assets for September 29, 2024 = $4,665 million\n- Net fixed assets for September 24, 2023 = $5,042 million\n\nTo calculate the average net fixed assets, we use the formula: (Net fixed assets for 2024 + Net fixed assets for 2023) / 2\n- Average net fixed assets = ($4,665 million + $5,042 million) / 2 = $9,707 million / 2 = $4,853.5 million\n\nNow we can calculate the Fixed Asset Turnover for 2024:\n- Fixed Asset Turnover = Total revenues for 2024 / Average net fixed assets\n- Fixed Asset Turnover = $33,196 million / $4,853.5 million ≈ 6.84\n\nThe final answer is: $\\boxed{6.84}$"
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "To calculate the Average Total Assets, we need the Total Assets for the given year and the previous year.\n\nFrom Table 7:\n- Total Assets for September 29, 2024 = $55,154\n- Total Assets for September 24, 2023 = $51,040\n\nUsing the formula: (Total Assets for given year + Total Assets for previous year) / 2\n= ($55,154 + $51,040) / 2\n= $106,194 / 2\n= $53,097\n\nThe Average Total Assets is $53,097."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "To calculate the Total Asset Turnover, we need to use the formula: Revenue / Average Total Assets.\n\nFrom Table 3, we can find the total revenue for 2024: $33,196 million.\n\nFrom Table 7, we can find the total assets for September 29, 2024: $55,154 million, and for September 24, 2023: $51,040 million.\n\nTo calculate the average total assets, we use the formula: (Total Assets 2024 + Total Assets 2023) / 2.\nAverage Total Assets = ($55,154 million + $51,040 million) / 2 = $53,097 million.\n\nNow, we can calculate the Total Asset Turnover:\nTotal Asset Turnover = Revenue / Average Total Assets\n= $33,196 million / $53,097 million\n= 0.625\n\nThe final answer is: 0.625"
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "To calculate the Free Cash Flow (FCF), we need to use the formula: Operating Cash Flow - Capital Expenditures.\n\nFrom Table 10, we can find the necessary data:\n- Operating Cash Flow: $12,202 (Net cash provided by operating activities)\n- Capital Expenditures: ($1,041) (Capital expenditures under Investing Activities)\n\nNow, let's perform the calculation:\nFCF = Operating Cash Flow - Capital Expenditures\n= $12,202 - ($1,041)\n= $11,161\n\nThe final answer is: $11,161"
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "To calculate the Price-to-Earnings (P/E) Ratio, we need the Market Price per Share and Earnings per Share. The formula for P/E Ratio is:\n\nMarket Price per Share / Earnings per Share\n\nFrom Table 8, we have the Earnings per Share (Basic) for September 29, 2024, as $9.09.\n\nHowever, the Market Price per Share is not directly provided in any of the given tables. \n\nGiven the data provided, we cannot calculate the Market Price per Share, which is necessary for determining the P/E Ratio.\n\nThe final answer is: Insufficient data"
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "To calculate the Book Value per Share, we need to use the formula:\n\nBook Value per Share = Total Shareholders' Equity / Total Shares Outstanding\n\nFrom Table 7 (Page 60), we can find the Total Assets and Total Liabilities. To find the Total Shareholders' Equity, we subtract the Total Liabilities from the Total Assets.\n\nTotal Assets = $55,154\nTotal Liabilities = $28,880\nTotal Shareholders' Equity = Total Assets - Total Liabilities = $55,154 - $28,880 = $26,274\n\nHowever, to confirm this calculation and ensure accuracy, let's also look at Table 11 (Page 64), which directly provides the total stockholders’ equity.\n\nAccording to Table 11, the \"Total stockholders’ equity, beginning balance\" for September 29, 2024, is $21,581, but this seems to be the beginning balance. To find the ending balance, we look at the components that affect the change in stockholders' equity:\n\n- Common stock and paid-in capital changes\n- Retained earnings changes\n\nThe detailed breakdown in Table 11 shows various adjustments, but for simplicity and adherence to the provided data, let's focus on the key figures directly related to our calculation:\n\nThe ending balance of Total Stockholders' Equity as per the movements shown is not directly calculated here due to the complexity of the table. However, we notice that the direct figure for Total Shareholders' Equity at the end of the period (September 29, 2024) isn't explicitly provided in a simple form in Table 11, but we have calculated it as $26,274 from Table 7.\n\nFor the Total Shares Outstanding, we need to look at the information related to common stock. From Table 11, under \"Common stock and paid-in capital,\" we see the balance at the beginning and end of the period but not the total shares outstanding directly. \n\nGiven the provided tables, there's no direct, simple figure for Total Shares Outstanding that we can use without making assumptions or complex calculations involving share-based compensation, repurchases, and issuances.\n\nSince we cannot accurately calculate the Total Shares Outstanding from the given data without more detailed information on the common stock (e.g., the number of shares), we conclude:\n\nInsufficient data"
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "To calculate the Price-to-Book (P/B) Ratio, we need the Market Price per Share and the Book Value per Share.\n\nThe Book Value per Share can be calculated using the Total Assets and Total Liabilities from Table 7. \n\nTotal Assets = $55,154 million\nTotal Liabilities = $28,880 million\nTotal Stockholders' Equity = Total Assets - Total Liabilities = $55,154 million - $28,880 million = $26,274 million\n\nTo find the Book Value per Share, we need the total number of shares outstanding. Unfortunately, this information is not provided in the given tables.\n\nSince we cannot calculate the Book Value per Share without the total number of shares outstanding, and the Market Price per Share is also not directly available, we have insufficient data to calculate the Price-to-Book (P/B) Ratio.\n\nThe final answer is: $\\boxed{Insufficient data}$"
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "To calculate Sales per Share, we need Revenue and Total Shares Outstanding.\n\nFrom Table 8, we find:\n- Total revenues = $38,962 million (for 2024)\n\nFrom Table 8, under \"Shares used in per share calculations:\", we find:\n- Basic = 1,116 million shares (for 2024)\n- Diluted = 1,130 million shares (for 2024)\n\nSince Sales per Share can be calculated using either basic or diluted shares, let's calculate both:\n\n1. Using Basic Shares:\nSales per Share = Revenue / Total Shares Outstanding\n= $38,962 million / 1,116 million\n= $34.93\n\n2. Using Diluted Shares:\nSales per Share = Revenue / Total Shares Outstanding\n= $38,962 million / 1,130 million\n= $34.49\n\nGiven the context, both calculations are valid depending on whether you're considering basic or diluted shares. However, for simplicity and clarity in financial reporting, the calculation using diluted shares is often preferred because it provides a more conservative estimate by accounting for all potential shares that could be outstanding.\n\nTherefore, focusing on the diluted shares calculation which is commonly used for such metrics:\n$34.49"
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "To calculate the Price-to-Sales (P/S) Ratio, we need the Market Price per Share and Sales per Share.\n\nFrom Table 8, we can find the Total revenues for 2024, which is $38,962 million. We also need the total number of shares, which can be found in the same table: Basic shares used in per share calculations is 1,116 million.\n\nHowever, to calculate the P/S ratio, we specifically need the market price per share and sales per share. The sales per share can be calculated by dividing the total revenues by the total number of basic shares: $38,962 million / 1,116 million shares = $34.93 per share.\n\nThe market price per share is not directly provided in the tables given. Without this information, we cannot accurately calculate the Price-to-Sales Ratio as it requires both the market price per share and sales per share.\n\nTherefore, based on the data provided, the answer is: Insufficient data"
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "To calculate the PEG Ratio, we need the P/E Ratio and the Annual EPS Growth Rate.\n\nFirst, let's find the P/E Ratio. The P/E Ratio is calculated by dividing the stock price by the earnings per share (EPS). However, the stock price is not provided in the tables. \n\nNext, let's calculate the Annual EPS Growth Rate. We can use the data from Table 8 to find the EPS for 2023 and 2024. The EPS for 2024 is $9.09 (Basic earnings per share) and for 2023 is $6.47. \n\nAnnual EPS Growth Rate = (EPS 2024 - EPS 2023) / EPS 2023\n= ($9.09 - $6.47) / $6.47\n= $2.62 / $6.47\n= 0.405 or 40.5%\n\nSince we cannot calculate the P/E Ratio due to insufficient data (stock price not provided), we cannot calculate the PEG Ratio.\n\nThe final answer is: Insufficient data"
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "To calculate the Dividend Yield, we need two pieces of information: Annual Dividends per Share and Market Price per Share. The formula for Dividend Yield is:\n\nDividend Yield = Annual Dividends per Share / Market Price per Share\n\nFrom Table 11, under \"Retained earnings,\" we can find the dividends paid out in 2024: $3,794 million. To find the Annual Dividends per Share, we need to divide this by the number of shares. According to Table 8, the basic shares used in per share calculations for 2024 are 1,116 million. Thus,\n\nAnnual Dividends per Share = Total Dividends / Total Number of Shares\n= $3,794 million / 1,116 million shares\n= $3.40 per share\n\nHowever, to calculate the Dividend Yield, we also need the Market Price per Share. The provided tables do not directly give us the Market Price per Share for the specific date or period needed for our calculation. \n\nGiven the information and the strict instruction to use only the data from the provided tables, we cannot accurately calculate the Market Price per Share, which is essential for determining the Dividend Yield.\n\nTherefore, based on the provided instructions and available data, the answer is:\n\nInsufficient data"
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "To calculate the Earnings Per Share (EPS), we need to use the formula:\n\nEPS = Net Income / Weighted Average Shares Outstanding\n\nFrom Table 8, we can find the Net Income for September 29, 2024:\nNet Income = $10,142\n\nWe also need the Weighted Average Shares Outstanding. For simplicity and based on the data provided, we'll consider the basic shares used in per share calculations as an approximation for the weighted average, given that specific weighted average shares are not directly provided.\n\nFrom Table 8, the Basic shares used in per share calculations for September 29, 2024, are:\nBasic Shares = 1,116\n\nNow, let's calculate EPS using these values:\n\nEPS = Net Income / Basic Shares\n   = $10,142 / 1,116\n   ≈ $9.09\n\nTherefore, the Earnings Per Share (EPS) is approximately $9.09."
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "To calculate the Return on Assets (ROA), we need to use the formula: Net Income / Average Total Assets.\n\nFrom Table 8, we can find the Net Income for September 29, 2024: $10,142.\n\nFrom Table 7, we have the Total Assets for two different periods:\n- For September 29, 2024: $55,154\n- For September 24, 2023: $51,040\n\nTo calculate the Average Total Assets, we use the formula: (Total Assets for the current period + Total Assets for the previous period) / 2.\n\nAverage Total Assets = ($55,154 + $51,040) / 2 = $53,097\n\nNow, we can calculate the ROA:\nROA = Net Income / Average Total Assets = $10,142 / $53,097 ≈ 0.191 or 19.1%\n\nThe answer is: 0.191 or 19.1%"
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "To calculate the Return on Equity (ROE), we need to use the formula: Net Income / Average Shareholders' Equity.\n\nFrom Table 8, we can find the Net Income for 2024: $10,142.\n\nTo find the Average Shareholders' Equity, we need data from Table 11. The Total stockholders’ equity at the beginning of 2024 is $21,581, and at the end of 2024, we can calculate it by adding the changes to the beginning balance:\n\n- Common stock and paid-in capital: The balance at the end of the period is not directly provided, but we see that the common stock issued under employee benefit plans, share-based compensation, and other adjustments do not directly contribute to the total equity in a straightforward manner without considering retained earnings.\n- Retained earnings: Balance at the beginning of 2024 is $20,733. Net income is $10,142 (from Table 8), repurchases and retirements of common stock are ($1,394), and dividends are ($3,794). \n\nThus, the Total stockholders’ equity at the end of 2024 can be calculated by considering the changes in retained earnings since the beginning balance and the net income:\n$20,733 (beginning retained earnings) + $10,142 (net income) - $1,394 (repurchases) - $3,794 (dividends) = $25,687.\n\nHowever, to correctly calculate the average shareholders' equity, we should consider the total stockholders' equity. Given that the common stock and paid-in capital adjustments do not directly affect our calculation without additional context on how they're integrated into total equity for this purpose, we focus on the provided totals:\n\n- Beginning of 2024: $21,581\n- End of 2024: To find the end total, we note from Table 11 that the \"Balance at end of period\" for common stock and paid-in capital isn't directly useful without the full context of equity changes. However, we see the retained earnings balance at the end of 2024 is $25,687, which suggests an increase in total equity due to net income and other factors.\n\nGiven the direct data:\n- Beginning Total stockholders’ equity: $21,581\n- End Total stockholders’ equity isn't directly calculable from provided details without assuming how common stock changes affect total equity. However, we know the retained earnings part ends at $25,687.\n\nFor simplicity and adhering strictly to provided data, let's calculate the average shareholders' equity using the beginning total equity and recognizing that without the exact end-of-period total equity, our calculation might not fully capture all nuances:\n\nAverage Shareholders' Equity = (Beginning Total stockholders’ equity + Ending Total stockholders’ equity) / 2\n\nSince we don't have the exact ending total equity but know the retained earnings component ends at $25,687 and assuming other components like common stock and paid-in capital adjustments are part of the total equity changes, we might approximate or directly use provided totals if applicable.\n\nHowever, given the data provided and focusing on what's directly calculable:\n- We can see the beginning and ending retained earnings but not the full breakdown of how common stock and paid-in capital affect the total at the end of 2024 without more context.\n\nThus, to calculate ROE with available data:\nNet Income = $10,142\nAverage Shareholders' Equity, if we only consider the beginning and assume the ending is somewhat reflected in retained earnings changes but lack full detail for an exact average, poses a challenge.\n\nGiven this, let's proceed with what we can directly calculate or infer:\n- Beginning Total stockholders’ equity: $21,581\n- Ending Retained Earnings: $25,687\n\nWithout the precise ending total equity, calculating the exact average shareholders' equity as per the formula is challenging. However, if we were to simplify and consider just the retained earnings part for a rough estimation (acknowledging this doesn't fully capture the ROE calculation's nuance):\nAverage based on Retained Earnings = ($20,733 + $25,687) / 2 = $23,210\n\nThen, ROE = Net Income / Average Shareholders' Equity ≈ $10,142 / $23,210 ≈ 0.436 or 43.6%\n\nPlease note, this calculation uses a simplification due to the complexity and potential missing pieces in directly calculating the average total shareholders' equity as intended by the formula. For precise ROE, one would ideally calculate the exact average shareholders' equity using comprehensive data on both beginning and ending total stockholders’ equity."
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "To calculate the Return on Invested Capital (ROIC), we need to use the formula:\n\nROIC = Net Operating Profit After Tax / Invested Capital\n\nFrom Table 8, we can find the Net Operating Profit After Tax and the necessary components to calculate Invested Capital.\n\n1. **Net Operating Profit After Tax**: This is essentially the operating income after adjusting for taxes. The operating income for September 29, 2024, is $10,071 (from Table 8). However, to get the net operating profit after tax, we should consider the income tax expense related to operations.\n\n   - Income from continuing operations before income taxes = $10,336\n   - Income tax expense = $226\n\n   Thus, Net Operating Profit After Tax = $10,336 (Income from continuing operations before income taxes) - $226 (Income tax expense) = $10,110.\n\n2. **Invested Capital**: Invested capital includes both debt and equity. From Table 7, we can find the total liabilities and the total equity by subtracting total liabilities from total assets.\n\n   - Total liabilities = $28,880\n   - Total assets = $55,154\n\n   Thus, Total equity = Total assets - Total liabilities = $55,154 - $28,880 = $26,274.\n\n   Invested Capital = Total debt (short-term and long-term) + Equity. From Table 7:\n   \n   - Short-term debt = $1,364\n   - Long-term debt = $13,270\n   \n   So, Total debt = $1,364 + $13,270 = $14,634.\n   \n   Invested Capital = Total debt + Equity = $14,634 + $26,274 = $40,908.\n\nNow, we can calculate the ROIC:\n\nROIC = Net Operating Profit After Tax / Invested Capital\n\nROIC = $10,110 / $40,908 ≈ 0.247 or 24.7%.\n\nTherefore, the Return on Invested Capital (ROIC) is approximately **24.7%**."
+    }
+]
