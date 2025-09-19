@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "**Gross Profit Margin (2023)**  \n\n\\[\n\\text{Gross Profit Margin} = \\frac{\\text{Revenue} - \\text{Cost of Revenue}}{\\text{Revenue}}\n\\]\n\n- Revenue (2023) = **$134,902 million**  (Table 3 / Table 8)  \n- Cost of Revenue (COGS, 2023) = **$25,959 million**  (Table 3 / Table 8)\n\n\\[\n\\frac{134{,}902 - 25{,}959}{134{,}902}\n= \\frac{108{,}943}{134{,}902}\n\\approx 0.8076\n\\]\n\n**Gross Profit Margin ≈ 80.8 %**."
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "**Operating Profit Margin (ROS) – 2023**\n\n\\[\n\\text{ROS} = \\frac{\\text{Operating Income (Income from operations)}}{\\text{Revenue}}\n\\]\n\n- Operating Income (2023) = **$46,751 million**  (Table 3, Table 8, Table 36)  \n- Revenue (2023) = **$134,902 million** (Table 3, Table 8, Table 36)\n\n\\[\n\\text{ROS} = \\frac{46{,}751}{134{,}902} \\approx 0.3466\n\\]\n\n\\[\n\\boxed{\\text{Operating Profit Margin} \\;\\approx\\; 34.66\\%}\n\\]"
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "**Net Profit Margin (2023)**  \n\n\\[\n\\text{Net Profit Margin} = \\frac{\\text{Net Income}}{\\text{Revenue}}\n= \\frac{ \\$39{,}098\\ \\text{million}}{\\$134{,}902\\ \\text{million}}\n\\approx 0.2898 \\; \\text{or} \\; 28.98\\%\n\\]\n\n**Result:** **≈ 28.98 %** (Net income divided by revenue for the year ended December 31 2023)."
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "**Operating Cash Flow Ratio (2023)**  \n\n\\[\n\\text{Operating Cash Flow Ratio} = \\frac{\\text{Operating Cash Flow}}{\\text{Current Liabilities}}\n\\]\n\n- Operating cash flow (Net cash provided by operating activities, Table 11): **$71,113 million**  \n- Current liabilities (Table 7): **$31,960 million**\n\n\\[\n\\frac{71{,}113}{31{,}960} \\approx 2.22\n\\]\n\n**Operating Cash Flow Ratio ≈ 2.22 ×** (i.e., operating cash flow is about 2.2 times current liabilities)."
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "**EBITDA (2023)**  \n\n- Operating Income (Income from operations) … $46,751 million  \n- Depreciation + Amortization … $11,178 million  \n\n**EBITDA = 46,751 + 11,178 = 57,929 million**  \n\n**Result:** **$57,929 million**."
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "**COGS Analysis (Cost of Revenue ÷ Revenue)**  \n\n- **Cost of revenue (2023)**: $25,959 million  \n- **Revenue (2023)**: $134,902 million  \n\n\\[\n\\text{COGS Ratio} = \\frac{25{,}959}{134{,}902} \\approx 0.1924 \\; \\text{(or } 19.2\\% \\text{)}\n\\]\n\n**Result:** **≈ 19 %** of revenue is attributable to cost of goods sold (cost of revenue) for 2023."
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "**SG&A (Selling + General & Administrative) expense ratio**\n\n| Year | Revenue ( $ million) | Marketing & Sales ( $ million) | General & Admin ( $ million) | SG&A Total ( $ million) | SG&A ÷ Revenue |\n|------|----------------------|--------------------------------|------------------------------|--------------------------|----------------|\n| 2023 | 134,902 | 12,301 | 11,408 | **23,709** | **23,709 / 134,902 ≈ 0.1758 → 17.6 %** |\n| 2022 | 116,609 | 15,262 | 11,816 | **27,078** | **27,078 / 116,609 ≈ 0.2323 → 23.2 %** |\n\n**Result**\n\n- **2023 SG&A expense ratio:** **≈ 17.6 % of revenue**  \n- **2022 SG&A expense ratio:** **≈ 23.2 % of revenue**  \n\n(Values are taken directly from the consolidated statements of income in Table 3.)"
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "**R&D Analysis (2023)**  \n\n\\[\n\\text{R\\&D Analysis} = \\frac{\\text{Research and Development expense}}{\\text{Revenue}}\n\\]\n\n- Revenue (2023) = **$134,902 million**  (Table 3 / Table 8)  \n- Research & Development expense (2023) = **$38,483 million**  (Table 3 / Table 8)\n\n\\[\n\\frac{38{,}483}{134{,}902} \\approx 0.285 \\; \\text{(or } 28.5\\% \\text{)}\n\\]\n\n**Result:** **≈ 0.285 (28.5 %)**."
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "**Interest‑Expense‑to‑Revenue Ratio**  \n\n\\[\n\\text{Interest‑Expense Analysis} = \\frac{\\text{Interest Expense}}{\\text{Revenue}}\n\\]\n\n| Year | Interest Expense ( $ millions) | Revenue ( $ millions) | Ratio (decimal) | Ratio (% of revenue) |\n|------|-------------------------------|-----------------------|-----------------|----------------------|\n| 2023 | **(446)**                     | **134,902**           | 0.00331 | **0.33 %** |\n| 2022 | **(185)**                     | **116,609**           | 0.00159 | **0.16 %** |\n| 2021 | **(23)**                      | **117,929**           | 0.00020 | **0.02 %** |\n\n**Interpretation**\n\n- In 2023 the company’s interest expense represented roughly **0.33 %** of its revenue.  \n- In 2022 it fell to about **0.16 %** of revenue.  \n- In 2021 it was minimal, at roughly **0.02 %** of revenue.  \n\n*All figures are taken directly from the provided tables (interest expense from Table 6/32 and revenue from Table 3) and are expressed in millions of dollars.*"
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "**Current Ratio = Current Assets ÷ Current Liabilities**\n\n| Year | Current Assets ( $ millions) | Current Liabilities ( $ millions) | Current Ratio (times) |\n|------|-----------------------------|-----------------------------------|-----------------------|\n| 2023 | 85,365 | 31,960 | **2.67 ×** |\n| 2022 | 59,549 | 27,026 | **2.20 ×** |\n\n**How it was calculated**\n\n- From Table 7 (page 90) we extracted:  \n  - 2023 Total current assets = 85,365; Total current liabilities = 31,960.  \n  - 2022 Total current assets = 59,549; Total current liabilities = 27,026.  \n\n- Applied the formula:  \n\n\\[\n\\text{Current Ratio}_{2023}= \\frac{85{,}365}{31{,}960}\\approx 2.67\n\\]\n\n\\[\n\\text{Current Ratio}_{2022}= \\frac{59{,}549}{27{,}026}\\approx 2.20\n\\]\n\n**Result**  \n- The company’s current ratio was **2.67 times** in 2023 and **2.20 times** in 2022."
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "**Insufficient data** – the tables provide total current assets and current liabilities, but they do not disclose the amount of inventory needed to compute the Quick Ratio."
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "**Working Capital (2023)**  \n\n\\[\n\\text{Working Capital} = \\text{Total Current Assets} - \\text{Total Current Liabilities}\n\\]\n\nFrom Table 7:  \n\n- Total current assets (2023) = **85,365** (in $ millions)  \n- Total current liabilities (2023) = **31,960** (in $ millions)\n\n\\[\n85,365 \\;-\\; 31,960 \\;=\\; \\mathbf{53,405}\n\\]\n\n**Working Capital = $53,405 million**."
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "**Debt‑to‑Equity Ratio (2023)**  \n\n\\[\n\\text{Debt‑to‑Equity Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Shareholders’ Equity}}\n\\]\n\n- **Total Debt** (Long‑term debt + Operating‑lease liabilities, current + non‑current)  \n  \\[\n  18{,}385\\;(\\text{Long‑term debt}) + 1{,}623\\;(\\text{Current operating‑lease liability}) + 17{,}226\\;(\\text{Non‑current operating‑lease liability}) = 37{,}234\\ \\text{million $}\n  \\]\n\n- **Total Shareholders’ Equity** (Assets – Liabilities)  \n  \\[\n  229{,}623\\;(\\text{Total assets}) - 76{,}455\\;(\\text{Total liabilities}) = 153{,}168\\ \\text{million $}\n  \\]\n\n\\[\n\\frac{37{,}234}{153{,}168} \\approx 0.243 \\;\\text{or}\\; 24.3\\%\n\\]\n\n**Answer:** The Debt‑to‑Equity Ratio for the company as of December 31 2023 is **approximately 0.24 (24.3 %)**."
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "**Debt‑to‑Asset Ratio (2023)**  \n\n\\[\n\\text{Debt‑to‑Asset Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Assets}}\n\\]\n\nUsing the figures from the balance sheet (Table 7):\n\n- **Total Debt (taken as Total Liabilities)** = $76,455 million  \n- **Total Assets** = $229,623 million  \n\n\\[\n\\frac{76{,}455}{229{,}623} \\approx 0.333 \\; \\text{(or }33.3\\%\\text{)}\n\\]\n\n**Answer:** **0.333** (≈ 33.3 %)."
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "**Interest Coverage Ratio (Operating Income ÷ Interest Expense)**  \n\n| Year | Operating Income ( $ millions) | Interest Expense ( $ millions) | Ratio (times) |\n|------|-------------------------------|--------------------------------|---------------|\n| 2023 | 46,751 | 446 | **≈ 104.9 ×** |\n| 2022 | 28,944 | 185 | ≈ 156.5 × |\n| 2021 | 46,753 | 23  | ≈ 2,033 × |\n\n*The most recent ratio (2023) is about **105 times** – the company’s operating income can cover its interest expense roughly 105 times.*"
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "Insufficient data."
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "**Average Accounts Receivable**\n\n\\[\n\\frac{\\text{Accounts Receivable}_{2023} + \\text{Accounts Receivable}_{2022}}{2}\n= \\frac{16{,}169 + 13{,}466}{2}\n= \\frac{29{,}635}{2}\n= 14{,}817.5\n\\]\n\n**Result:** **$14,817.5** (in the same units as the table, i.e., dollars in thousands)."
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "**Days Sales Outstanding (DSO)**  \n\n\\[\n\\text{DSO} = \\frac{\\text{Average Accounts Receivable} \\times 365}{\\text{Revenue}}\n\\]\n\n- Accounts receivable, net (2023) = **$16,169 million**  \n- Accounts receivable, net (2022) = **$13,466 million**  \n\n\\[\n\\text{Average Accounts Receivable} = \\frac{16,169 + 13,466}{2}=14,817.5\\ \\text{million}\n\\]\n\n- Revenue (2023) = **$134,902 million**\n\n\\[\n\\text{DSO} = \\frac{14,817.5 \\times 365}{134,902}\n           = \\frac{5,408,387.5}{134,902}\n           \\approx 40.1\\ \\text{days}\n\\]\n\n**Result:** **≈ 40 days** (rounded to one decimal place)."
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "**Average Accounts Payable**\n\n\\[\n\\frac{\\text{Accounts Payable}_{2023} + \\text{Accounts Payable}_{2022}}{2}\n= \\frac{4{,}849 + 4{,}990}{2}\n= \\frac{9{,}839}{2}\n= 4{,}919.5\n\\]\n\n**Result:** **$ 4,919.5** (in the same monetary units as the table)."
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "**Accounts Payable Days**\n\n\\[\n\\text{Accounts Payable Days} = \\frac{\\text{Average Accounts Payable} \\times 365}{\\text{COGS}}\n\\]\n\n- Average Accounts Payable  \n  \\[\n  \\frac{4{,}849 + 4{,}990}{2}=4{,}919.5\\ \\text{million}\n  \\]\n\n- COGS (Cost of revenue for 2023)  \n  \\[\n  25{,}959\\ \\text{million}\n  \\]\n\n\\[\n\\text{Accounts Payable Days}= \\frac{4{,}919.5 \\times 365}{25{,}959}\n= \\frac{1{,}795{,}617.5}{25{,}959}\n\\approx 69.2\\ \\text{days}\n\\]\n\n**Answer:** **≈ 69.2 days**."
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "**Average Net Fixed Assets**\n\n\\[\n\\frac{\\text{Net Fixed Assets}_{2023} + \\text{Net Fixed Assets}_{2022}}{2}\n= \\frac{96{,}587 \\;+\\; 79{,}518}{2}\n= \\frac{176{,}105}{2}\n= 88{,}052.5\n\\]\n\n**Result:** **$88,052.5 million** (average net fixed assets for the two years)."
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "**Fixed Asset Turnover**\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Net Fixed Assets}}\n\\]\n\n- **Revenue (2023)** – total revenue from Table 5: **$134,902 million**  \n- **Net Fixed Assets** (Property & equipment, net) – Table 7:  \n  - 2023: $96,587 million  \n  - 2022: $79,518 million  \n\n\\[\n\\text{Average Net Fixed Assets} = \\frac{96,587 + 79,518}{2}\n= \\frac{176,105}{2}\n= 88,052.5\\ \\text{million}\n\\]\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{134,902}{88,052.5}\n\\approx 1.53\n\\]\n\n**Result:** **≈ 1.53 times** (revenue generated per dollar of net fixed assets)."
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "**Average Total Assets**\n\n\\[\n\\frac{\\text{Total assets 2023} + \\text{Total assets 2022}}{2}\n= \\frac{229{,}623 \\;+\\; 185{,}727}{2}\n= \\frac{415{,}350}{2}\n= 207{,}675\n\\]\n\n**Result:** **$207,675** (in the same units as the source tables – millions of dollars)."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "**Total Asset Turnover (2023)**  \n\n\\[\n\\text{Total Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Total Assets}}\n\\]\n\n- Revenue (2023) = **$134,902 million**  (Table 3 / Table 5)  \n- Total assets (2023) = **$229,623 million** (Table 7)  \n- Total assets (2022) = **$185,727 million** (Table 7)  \n\n\\[\n\\text{Average Total Assets} = \\frac{229,623 + 185,727}{2}\n= \\frac{415,350}{2}\n= 207,675\\ \\text{million}\n\\]\n\n\\[\n\\text{Total Asset Turnover} = \\frac{134,902}{207,675}\n\\approx 0.65\n\\]\n\n**Answer:** **0.65 ×** (i.e., revenue is about 0.65 times the average total assets)."
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "**Free Cash Flow (FCF)**  \n\n\\[\n\\text{FCF} = \\text{Operating Cash Flow} - \\text{Capital Expenditures}\n\\]\n\n- **Operating Cash Flow (2023)** – “Net cash provided by operating activities” = **$71,113 million**  \n- **Capital Expenditures (2023)** – “Purchases of property and equipment” = **$27,266 million**  \n\n\\[\n\\text{FCF}_{2023} = 71{,}113\\; \\text{million} \\;-\\; 27{,}266\\; \\text{million}\n                 = \\mathbf{43{,}847\\; \\text{million}}\n\\]\n\n**Result:** **$43,847 million** (≈ **$43.8 billion**) free cash flow for 2023."
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "Insufficient data."
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "**Book Value per Share (2023)**  \n\n\\[\n\\text{Book Value per Share} = \\frac{\\text{Total Shareholders' Equity}}{\\text{Total Shares Outstanding}}\n\\]\n\n- Total Shareholders' Equity (2023) = $229,623 million – $76,455 million = **$153,168 million** (Table 7, also shown in Table 10).  \n- Total Shares Outstanding (2023) = **2,561 million shares** (Table 10, “Balances at December 31, 2023”).\n\n\\[\n\\frac{153{,}168\\ \\text{million $}}{2{,}561\\ \\text{million shares}} \\approx 59.8\\ \\text{$ per share}\n\\]\n\n**Answer:** **≈ $59.8 per share**."
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "**Sales per Share (2023)**  \n\n\\[\n\\text{Sales per Share} = \\frac{\\text{Revenue}}{\\text{Total Shares Outstanding}}\n\\]\n\n- Revenue (2023) = **$134,902 million**  (Table 5, Table 8)  \n- Diluted weighted‑average shares outstanding (2023) = **2,629 million shares**  (Table 8)\n\n\\[\n\\frac{134{,}902\\ \\text{million dollars}}{2{,}629\\ \\text{million shares}} \\approx 51.3\\ \\text{dollars per share}\n\\]\n\n**Result:** **≈ $51.3 per share**."
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "**Insufficient data** – the tables provide earnings per share (EPS) but do not include the company’s current share price, which is required to compute the P/E ratio, nor do they specify the exact method for calculating the annual EPS growth rate. Without both the P/E ratio and the EPS growth rate, the PEG ratio cannot be determined."
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "**Earnings‑per‑share (2023)**  \n\n| Type | Net income ( $ million) | Weighted‑average shares ( million ) | EPS ( $ per share ) |\n|------|------------------------|--------------------------------------|--------------------|\n| Basic | 39,098 | 2,574 | **15.19** |\n| Diluted | 39,098 | 2,629 | **14.87** |\n\n**Calculation**\n\n\\[\n\\text{Basic EPS}= \\frac{39{,}098\\ \\text{million}}{2{,}574\\ \\text{million}} = 15.19\\ \\text{USD per share}\n\\]\n\n\\[\n\\text{Diluted EPS}= \\frac{39{,}098\\ \\text{million}}{2{,}629\\ \\text{million}} = 14.87\\ \\text{USD per share}\n\\]\n\nThus, for the year ended December 31 2023 the company reported:\n\n- **Basic EPS:** $15.19 per share  \n- **Diluted EPS:** $14.87 per share."
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "**Return on Assets (ROA)**  \n\n\\[\n\\text{ROA} = \\frac{\\text{Net Income}}{\\text{Average Total Assets}}\n\\]\n\n- Net income (2023) = **$39,098 million**  (Table 3, Table 9)  \n- Total assets end‑2023 = **$229,623 million**  (Table 7)  \n- Total assets end‑2022 = **$185,727 million**  (Table 7)  \n\n\\[\n\\text{Average Total Assets} = \\frac{229{,}623 + 185{,}727}{2}\n                           = \\frac{415{,}350}{2}\n                           = 207{,}675\\ \\text{million}\n\\]\n\n\\[\n\\text{ROA} = \\frac{39{,}098}{207{,}675}\n           \\approx 0.1883 \\; \\text{or} \\; 18.8\\%\n\\]\n\n**Result:** **ROA ≈ 0.188 (18.8 %)**."
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "**Return on Equity (ROE)**  \n\n\\[\n\\text{ROE} = \\frac{\\text{Net Income}}{\\text{Average Shareholders' Equity}}\n\\]\n\n- Net income (2023) = **$39,098 million**  (Table 3)  \n- Shareholders’ equity  \n  - End‑2022 = **$125,713 million** (Table 10)  \n  - End‑2023 = **$153,168 million** (Table 10)  \n\n\\[\n\\text{Average Equity} = \\frac{125{,}713 + 153{,}168}{2}\n                     = \\frac{278{,}881}{2}\n                     = 139{,}440.5\\ \\text{million}\n\\]\n\n\\[\n\\text{ROE} = \\frac{39{,}098}{139{,}440.5}\n           \\approx 0.2804 \\; \\text{or} \\; 28.0\\%\n\\]\n\n**Result:** **ROE ≈ 28 %** (for the year ended December 31 2023)."
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "**Return on Invested Capital (ROIC)**  \n\n\\[\n\\text{ROIC}= \\frac{\\text{Net Operating Profit After Tax (NOPAT)}}{\\text{Invested Capital}}\n\\]\n\n**1. Net Operating Profit After Tax (NOPAT)**  \n\n- Operating income (Income from operations) – Table 3, 2023: **$46,751 million**  \n- Effective tax rate – Table 33, 2023: **17.6 %**  \n\n\\[\n\\text{NOPAT}=46{,}751 \\times (1-0.176)=46{,}751 \\times 0.824 \\approx \\mathbf{38{,}523\\;million}\n\\]\n\n**2. Invested Capital**  \n\nInvested capital is taken as total assets less non‑interest‑bearing current liabilities.\n\n- Total assets – Table 7, 2023: **$229,623 million**  \n- Non‑interest‑bearing current liabilities (accounts payable + partners payable + accrued expenses):  \n\n\\[\n4{,}849 + 863 + 24{,}625 = 30{,}337\\;\\text{million}\n\\]\n\n\\[\n\\text{Invested Capital}=229{,}623 - 30{,}337 = \\mathbf{199{,}286\\;million}\n\\]\n\n**3. ROIC calculation**\n\n\\[\n\\text{ROIC}= \\frac{38{,}523}{199{,}286}=0.1934\\;\\text{or}\\;19.3\\%\n\\]\n\n---\n\n**Result:** **ROIC ≈ 19.3 %** (for the year ended December 31 2023)."
+    }
+]

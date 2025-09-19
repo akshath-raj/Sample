@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "question": "What is the Gross Profit Margin?",
+        "formula": "(Revenue - COGS) / Revenue",
+        "answer": "Insufficient data."
+    },
+    {
+        "id": "2",
+        "question": "What is the Operating Profit Margin (ROS)?",
+        "formula": "Operating Income / Revenue",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "3",
+        "question": "What is the Net Profit Margin?",
+        "formula": "Net Income / Revenue",
+        "answer": "**Net‑Profit‑Margin (2024)**  \n\n\\[\n\\text{Net‑Profit‑Margin}= \\frac{\\text{Net profit (Net income)}}{\\text{Total revenue}}\n\\]\n\n- Net profit (profit for the period) – € 29 571 828 (Table 6, “Profit for the period” 2024)  \n- Total revenue – € 226 507 532, obtained by summing the revenue items reported in Table 6:  \n\n| Revenue item (2024) | Amount (€) |\n|---------------------|------------|\n| Interest revenue | 203 749 375 |\n| Fee & commission income | 10 076 029 |\n| Revenue from leases | 2 748 356 |\n| Revenue from car sales | 7 074 452 |\n| Other operating income | 2 859 320 |\n| **Total revenue** | **226 507 532** |\n\n\\[\n\\text{Net‑Profit‑Margin}= \\frac{29 571 828}{226 507 532}=0.1305\\;\\text{or}\\;13.1\\%\n\\]\n\n**Answer:** The Net Profit Margin for 2024 is **approximately 13.1 %**."
+    },
+    {
+        "id": "4",
+        "question": "What is the Operating Cash Flow Ratio?",
+        "formula": "Operating Cash Flow / Current Liabilities",
+        "answer": "**Operating Cash Flow Ratio**\n\n\\[\n\\text{Operating Cash Flow Ratio} = \\frac{\\text{Operating Cash Flow}}{\\text{Current Liabilities}}\n\\]\n\n| Year | Operating Cash Flow (EUR) | Current Liabilities (EUR) | Ratio (decimal) | Ratio (%) |\n|------|---------------------------|---------------------------|-----------------|-----------|\n| 2024 | 18 412 334 | 100 434 169 | 0.1833 | **18.3 %** |\n| 2023 | 17 147 323 | 113 316 498 | 0.1513 | **15.1 %** |\n\n**Explanation**\n\n* Operating cash flow is taken from Table 10 – “Net cash flows to/from operating activities”.  \n* Current liabilities are taken from Table 8 – “Total current liabilities”.  \n\nThe ratio is simply the division of these two figures, expressed as a decimal (or percentage).  \n\n**Result:**  \n- For 2024 the Operating Cash Flow Ratio is **0.183 (≈ 18.3 %)**.  \n- For 2023 the ratio is **0.151 (≈ 15.1 %)**."
+    },
+    {
+        "id": "5",
+        "question": "What is the EBITDA?",
+        "formula": "Operating Income + Depreciation + Amortization",
+        "answer": "**EBITDA (2024)** = € 92 825 389."
+    },
+    {
+        "id": "6",
+        "question": "What is the COGS Analysis?",
+        "formula": "COGS / Revenue",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "7",
+        "question": "What is the SG&A Analysis?",
+        "formula": "Selling, General & Administrative Expenses / Revenue",
+        "answer": "**SG&A ratio (2024)**  \n\n\\[\n\\text{SG\\&A} = \\frac{\\text{Selling expense} + \\text{Administrative expense}}{\\text{Revenue}}\n\\]\n\n- Selling expense (2024) … € 7 203 030  (Table 6)  \n- Administrative expense (2024) … € 74 700 997 (Table 16)  \n\n\\[\n\\text{Total SG\\&A expense}_{2024}=7 203 030 + 74 700 997 = € 81 904 027\n\\]\n\n- Revenue (2024) … € 371.2 million (Table 3, “Revenue, 12M 2024”)  \n\n\\[\n\\text{SG\\&A ratio}_{2024}= \\frac{81 904 027}{371 200 000}=0.2206\\;\\text{or}\\;22.1\\%\n\\]\n\n**Result:** **≈ 22 %** of revenue in 2024 is attributable to Selling, General & Administrative expenses."
+    },
+    {
+        "id": "8",
+        "question": "What is the R&D Analysis?",
+        "formula": "Research and Development / Revenue",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "9",
+        "question": "What is the Interest Expense Analysis?",
+        "formula": "Interest Expense / Revenue",
+        "answer": "**Interest‑Expense Analysis (Interest Expense ÷ Revenue)**  \n\n| Year | Interest expense (EUR) | Revenue used for denominator (EUR) | Calculation | Ratio |\n|------|-----------------------|-----------------------------------|-------------|-------|\n| 2024 | 41 520 275 | 2 748 356 (leases) + 7 074 452 (car sales) + 10 076 029 (fee & commission) = **19 898 837** | 41 520 275 ÷ 19 898 837 | **2.09 × 100 % = 208.7 %** |\n| 2023 | 37 499 444 | 4 067 111 (leases) + 1 936 451 (car sales) + 8 968 142 (fee & commission) = **14 971 704** | 37 499 444 ÷ 14 971 704 | **2.50 × 100 % = 250.4 %** |\n\n**Result**\n\n- **2024:** Interest expense is **≈ 208.7 %** of revenue.  \n- **2023:** Interest expense is **≈ 250.4 %** of revenue.  \n\n(Percentages are rounded to one decimal place.)"
+    },
+    {
+        "id": "10",
+        "question": "What is the Current Ratio?",
+        "formula": "Current Assets / Current Liabilities",
+        "answer": "**Current Ratio (31 Dec 2024)**  \n\n\\[\n\\text{Current Ratio} = \\frac{\\text{Current Assets}}{\\text{Current Liabilities}}\n= \\frac{232{,}614{,}880\\ \\text{EUR}}{100{,}434{,}169\\ \\text{EUR}}\n\\approx 2.316\n\\]\n\n**Result:** ≈ 2.32 (rounded to two decimal places)."
+    },
+    {
+        "id": "11",
+        "question": "What is the Quick Ratio (Acid-Test)?",
+        "formula": "(Current Assets - Inventory) / Current Liabilities",
+        "answer": "**Quick Ratio (Acid‑Test)**  \n\n\\[\n\\text{Quick Ratio} = \\frac{\\text{Current Assets} - \\text{Inventories}}{\\text{Current Liabilities}}\n\\]\n\n| Year | Current Assets (EUR) | Inventories (EUR) | Current Liabilities (EUR) | Quick Assets (EUR) | Quick Ratio |\n|------|----------------------|-------------------|---------------------------|--------------------|-------------|\n| 2024 | 232 614 880 | 2 452 606 | 100 434 169 | 230 162 274 | **2.29 ×** |\n| 2023 | 213 844 951 | 4 818 099 | 113 316 498 | 209 026 852 | **1.84 ×** |\n\n**Result**\n\n- Quick Ratio 2024 ≈ **2.29** (times)  \n- Quick Ratio 2023 ≈ **1.84** (times)  \n\n(Values are rounded to two decimal places.)"
+    },
+    {
+        "id": "12",
+        "question": "What is the Working Capital?",
+        "formula": "Current Assets - Current Liabilities",
+        "answer": "**Working Capital**\n\n| Year | Current Assets (EUR) | Current Liabilities (EUR) | Working Capital (Current Assets − Current Liabilities) |\n|------|----------------------|---------------------------|------------------------------------------------------|\n| 2024 | 232 614 880 | 100 434 169 | **132 180 711** |\n| 2023 | 213 844 951 | 113 316 498 | **100 528 453** |\n\n**Result:**  \n- Working Capital 2024 = **EUR 132,180,711**  \n- Working Capital 2023 = **EUR 100,528,453**"
+    },
+    {
+        "id": "13",
+        "question": "What is the Debt-to-Equity Ratio?",
+        "formula": "Total Debt / Total Shareholders' Equity",
+        "answer": "**Debt‑to‑Equity Ratio (2024)**  \n\n\\[\n\\text{Debt‑to‑Equity Ratio} = \\frac{\\text{Total Debt}}{\\text{Total Shareholders’ Equity}}\n\\]\n\n- **Total Debt** (interest‑bearing borrowings) = Non‑current borrowings + Current borrowings  \n  = 267 562 839 EUR + 72 015 592 EUR = **339 578 431 EUR**  (Table 8)\n\n- **Total Shareholders’ Equity** = 108 116 977 EUR (Table 8)\n\n\\[\n\\frac{339\\,578\\,431}{108\\,116\\,977} \\approx 3.14\n\\]\n\n**Debt‑to‑Equity Ratio ≈ 3.14 ×** (i.e., total debt is about 3.14 times equity)."
+    },
+    {
+        "id": "14",
+        "question": "What is the Debt-to-Asset Ratio?",
+        "formula": "Total Debt / Total Assets",
+        "answer": "**Debt‑to‑Asset Ratio (2024)**  \n\n\\[\n\\text{Debt‑to‑Asset Ratio}= \\frac{\\text{Total Debt}}{\\text{Total Assets}}\n= \\frac{\\text{TOTAL LIABILITIES}}{\\text{TOTAL EQUITY AND LIABILITIES}}\n= \\frac{368\\,171\\,788}{476\\,288\\,765}\n\\approx 0.7730\n\\]\n\n**Result:** **0.773 (≈ 77.3 %)** – unit‑less ratio, expressed as a percentage if desired."
+    },
+    {
+        "id": "15",
+        "question": "What is the Interest Coverage Ratio?",
+        "formula": "Operating Income / Interest Expense",
+        "answer": "**Interest Coverage Ratio (2024)**  \n\n\\[\n\\text{Interest Coverage Ratio} = \\frac{\\text{Operating Income}}{\\text{Interest Expense}}\n\\]\n\n- Operating Income (Profit before tax) = **€ 37,740,465**  [Table 6, “Profit before tax”]  \n- Interest Expense = **€ 41,520,275**  [Table 45, “Interest expense”]\n\n\\[\n\\frac{37,740,465}{41,520,275} \\approx 0.91\n\\]\n\n**Result:** **0.91 ×** (i.e., the company generates about 0.91 € of operating income for every 1 € of interest expense)."
+    },
+    {
+        "id": "16",
+        "question": "What is the Inventory Turnover?",
+        "formula": "COGS / Average Inventory",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "17",
+        "question": "What is the Average Accounts Receivable?",
+        "formula": "(Accounts Receivable for given year + Accounts Receivable for previous year) / 2",
+        "answer": "**Average Accounts Receivable**\n\n\\[\n\\frac{\\text{Trade receivables 2024} + \\text{Trade receivables 2023}}{2}\n= \\frac{2\\,164\\,840\\ \\text{EUR} + 1\\,606\\,770\\ \\text{EUR}}{2}\n= \\frac{3\\,771\\,610\\ \\text{EUR}}{2}\n= 1\\,885\\,805\\ \\text{EUR}\n\\]\n\n**Result:** **€ 1,885,805**."
+    },
+    {
+        "id": "18",
+        "question": "What is the Days Sales Outstanding?",
+        "formula": "(Average Accounts Receivable × 365) / Revenue",
+        "answer": "**Days Sales Outstanding (DSO)**  \n\n\\[\n\\text{DSO}= \\frac{\\text{Average Accounts Receivable}\\times 365}{\\text{Revenue}}\n\\]\n\n- **Trade receivables (31 Dec 2024)** = 2 164 840 EUR  \n- **Trade receivables (31 Dec 2023)** = 1 606 770 EUR  \n\n\\[\n\\text{Average Accounts Receivable}= \\frac{2 164 840 + 1 606 770}{2}=1 885 805\\ \\text{EUR}\n\\]\n\n- **Revenue for 2024** (from Table 3, “Revenue, 12M 2024”) = 371.2 million EUR = 371 200 000 EUR  \n\n\\[\n\\text{DSO}= \\frac{1 885 805 \\times 365}{371 200 000}\n           \\approx \\frac{688 318 825}{371 200 000}\n           \\approx 1.85\\ \\text{days}\n\\]\n\n**Result:** **≈ 1.9 days** (rounded to one decimal place)."
+    },
+    {
+        "id": "19",
+        "question": "What is the Average Accounts Payable?",
+        "formula": "(Accounts Payable for given year + Accounts Payable for previous year) / 2",
+        "answer": "**Average Accounts Payable**\n\n\\[\n\\text{Average Accounts Payable} = \\frac{\\text{Trade and other payables (2024)} + \\text{Trade and other payables (2023)}}{2}\n\\]\n\nFrom Table 8 (Current liabilities):\n\n- Trade and other payables, 31 Dec 2024 = **1 980 625 EUR**\n- Trade and other payables, 31 Dec 2023 = **2 224 874 EUR**\n\n\\[\n\\frac{1\\,980\\,625 + 2\\,224\\,874}{2} = \\frac{4\\,205\\,499}{2} = 2\\,102\\,749.5 \\text{ EUR}\n\\]\n\n**Average Accounts Payable ≈ 2 102 750 EUR** (rounded to the nearest euro)."
+    },
+    {
+        "id": "20",
+        "question": "What is the Accounts Payable Days?",
+        "formula": "(Average Accounts Payable × 365) / COGS",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "21",
+        "question": "What is the Average Net Fixed Assets?",
+        "formula": "(Net Fixed Assets for given year + Net Fixed Assets for previous year) / 2",
+        "answer": "**Average Net Fixed Assets**\n\n\\[\n\\frac{\\text{Net Fixed Assets}_{2024} + \\text{Net Fixed Assets}_{2023}}{2}\n= \\frac{16\\,282\\,205\\ \\text{EUR} + 20\\,517\\,356\\ \\text{EUR}}{2}\n= \\frac{36\\,799\\,561\\ \\text{EUR}}{2}\n= 18\\,399\\,780.5\\ \\text{EUR}\n\\]\n\n**Result:** **≈ 18,399,781 EUR** (rounded to the nearest euro)."
+    },
+    {
+        "id": "22",
+        "question": "What is the Fixed Asset Turnover?",
+        "formula": "Revenue / Average Net Fixed Assets",
+        "answer": "**Fixed Asset Turnover**\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Net Fixed Assets}}\n\\]\n\n- Revenue (2024) = **€148.9 million** (Table 3)  \n- Net Fixed Assets (tangible)  \n  - 31 Dec 2023 = €20 517 356 k (Table 7)  \n  - 31 Dec 2024 = €16 282 205 k (Table 7)  \n\n\\[\n\\text{Average Net Fixed Assets} = \\frac{20 517 356 + 16 282 205}{2}= €18 399 781 k\n\\]\n\n\\[\n\\text{Fixed Asset Turnover} = \\frac{148 900 000}{18 399 781} \\approx 8.1\n\\]\n\n**Result:** **≈ 8.1 times** (revenue generated per euro of net fixed assets)."
+    },
+    {
+        "id": "23",
+        "question": "What is the Average Total Assets?",
+        "formula": "(Total Assets for given year + Total Assets for previous year) / 2",
+        "answer": "**Average Total Assets**  \n\n\\[\n\\frac{\\text{Total Assets 2024} + \\text{Total Assets 2023}}{2}\n= \\frac{476{,}288{,}765\\ \\text{EUR} + 421{,}315{,}533\\ \\text{EUR}}{2}\n= \\frac{897{,}604{,}298\\ \\text{EUR}}{2}\n= 448{,}802{,}149\\ \\text{EUR}\n\\]\n\n**Result:** **448,802,149 EUR**."
+    },
+    {
+        "id": "24",
+        "question": "What is the Total Asset Turnover?",
+        "formula": "Revenue / Average Total Assets",
+        "answer": "**Total Asset Turnover**\n\n\\[\n\\text{Total Asset Turnover} = \\frac{\\text{Revenue}}{\\text{Average Total Assets}}\n\\]\n\n- Revenue (2024) = **EUR 371.2 million** (Table 3)  \n- Total assets 31‑12‑2024 = **EUR 476,288,765** (Table 7)  \n- Total assets 31‑12‑2023 = **EUR 421,315,533** (Table 7)  \n\n\\[\n\\text{Average Total Assets} = \\frac{476,288,765 + 421,315,533}{2}\n                           = \\frac{897,604,298}{2}\n                           = 448,802,149 \\text{ EUR}\n\\]\n\n\\[\n\\text{Total Asset Turnover} = \\frac{371,200,000}{448,802,149}\n                           \\approx 0.83\n\\]\n\n**Result:** **0.83** (dimension‑less)"
+    },
+    {
+        "id": "25",
+        "question": "What is the Free Cash Flow (FCF)?",
+        "formula": "Operating Cash Flow - Capital Expenditures",
+        "answer": "**Free Cash Flow (FCF)**  \n\nThe formula is  \n\n\\[\n\\text{FCF} = \\text{Operating Cash Flow} \\;-\\; \\text{Capital Expenditures}\n\\]\n\nFrom the consolidated cash‑flow statement (Table 10):\n\n| Item | 2024 (EUR) | 2023 (EUR) |\n|------|------------|------------|\n| Net cash flows from operating activities | **18 412 334** | **17 147 323** |\n| Purchase of property, plant & equipment & intangible assets (CapEx) | **7 888 229** (cash outflow) | **7 956 761** (cash outflow) |\n\n\\[\n\\begin{aligned}\n\\text{FCF}_{2024} &= 18\\,412\\,334 \\;-\\; 7\\,888\\,229 \\;=\\; \\mathbf{10\\,524\\,105\\;EUR} \\\\\n\\text{FCF}_{2023} &= 17\\,147\\,323 \\;-\\; 7\\,956\\,761 \\;=\\; \\mathbf{9\\,190\\,562\\;EUR}\n\\end{aligned}\n\\]\n\n**Result**\n\n- **2024 Free Cash Flow:** **€10.524 million**  \n- **2023 Free Cash Flow (for reference):** **€9.191 million**  \n\n(Amounts are presented in euros, as shown in the source tables.)"
+    },
+    {
+        "id": "26",
+        "question": "What is the Price-to-Earnings (P/E) Ratio?",
+        "formula": "Market Price per Share / Earnings per Share",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "27",
+        "question": "What is the Book Value per Share?",
+        "formula": "Total Shareholders' Equity / Total Shares Outstanding",
+        "answer": "**Book Value per Share**\n\n\\[\n\\text{Book Value per Share} = \\frac{\\text{Total equity attributable to the parent’s equity holders}}{\\text{Total shares outstanding}}\n\\]\n\n- Total equity attributable to equity‑holders of the Parent (Table 8, 31 Dec 2024): **€ 92 703 604**  \n- Total shares outstanding after the IPO (Table 32, 31 Dec 2024): **117 108 824 shares**\n\n\\[\n\\frac{92\\,703\\,604\\ \\text{EUR}}{117\\,108\\,824\\ \\text{shares}} \\approx 0.7916\\ \\text{EUR per share}\n\\]\n\n**Result:** **≈ € 0.79 per share** (rounded to two decimal places)."
+    },
+    {
+        "id": "28",
+        "question": "What is the Price-to-Book (P/B) Ratio?",
+        "formula": "Market Price per Share / Book Value per Share",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "29",
+        "question": "What is the Sales per Share?",
+        "formula": "Revenue / Total Shares Outstanding",
+        "answer": "**Sales per Share (2024)**  \n\n\\[\n\\text{Sales per Share} = \\frac{\\text{Revenue}}{\\text{Total Shares Outstanding}}\n\\]\n\n- Revenue (2024) – Table 3, “Revenue, 12M 2024” = **€ 371.2 million**  \n- Total shares outstanding (31 Dec 2024) – Table 32 = **117,108,824 shares**\n\n\\[\n\\frac{371.2\\ \\text{million €}}{117.108\\,824\\ \\text{million shares}} \\approx 3.17\\ \\text{€ per share}\n\\]\n\n**Answer:** **≈ € 3.17 per share**."
+    },
+    {
+        "id": "30",
+        "question": "What is the Price-to-Sales (P/S) Ratio?",
+        "formula": "Market Price per Share / Sales per Share",
+        "answer": "**Price‑to‑Sales (P/S) Ratio**\n\n\\[\n\\text{P/S Ratio} = \\frac{\\text{Market price per share}}{\\text{Sales per share}}\n\\]\n\n**Step 1 – Market price per share**  \nThe IPO prospectus states the share price at the end of the subscription period was **€ 1.70** per share.\n\n**Step 2 – Sales per share**  \n\n* Total revenue (turnover) for 2024 is given in Table 4 (total A + B) as **€ 216 573 760**.  \n* Number of shares after the IPO (Table 32) is **117 108 824** shares.\n\n\\[\n\\text{Sales per share} = \\frac{216\\,573\\,760\\ \\text{€}}{117\\,108\\,824\\ \\text{shares}} \\approx 1.849\\ \\text{€ per share}\n\\]\n\n**Step 3 – P/S Ratio**\n\n\\[\n\\text{P/S Ratio} = \\frac{1.70\\ \\text{€}}{1.849\\ \\text{€}} \\approx 0.92\n\\]\n\n---\n\n**Result:** The Price‑to‑Sales ratio for Eleving Group S.A. (as of 31 Dec 2024) is **approximately 0.92** (unit‑less)."
+    },
+    {
+        "id": "31",
+        "question": "What is the PEG Ratio?",
+        "formula": "P/E Ratio / Annual EPS Growth Rate",
+        "answer": "**Insufficient data**"
+    },
+    {
+        "id": "32",
+        "question": "What is the Dividend Yield?",
+        "formula": "Annual Dividends per Share / Market Price per Share",
+        "answer": "Insufficient data"
+    },
+    {
+        "id": "33",
+        "question": "What is the Earnings Per Share (EPS)?",
+        "formula": "Net Income / Weighted Average Shares Outstanding",
+        "answer": "**Earnings Per Share (EPS)**  \n\n\\[\n\\text{EPS} = \\frac{\\text{Net income attributable to equity holders of the parent}}{\\text{Weighted‑average number of ordinary shares}}\n\\]\n\n- Net income attributable to equity holders of the parent (2024): **€23 502 987**  (Table 6, “Equity holders of the Parent Company”).  \n- Weighted‑average number of ordinary shares outstanding (2024): **117 108 824** shares (Table 32, “Number of shares”).\n\n\\[\n\\text{EPS} = \\frac{23\\,502\\,987}{117\\,108\\,824}\n           \\approx 0.2007 \\;\\text{EUR per share}\n\\]\n\n**Rounded to two decimal places:** **€0.20 per share**."
+    },
+    {
+        "id": "34",
+        "question": "What is the Return on Assets (ROA)?",
+        "formula": "Net Income / Average Total Assets",
+        "answer": "**Return on Assets (ROA)**  \n\n\\[\n\\text{ROA} = \\frac{\\text{Net Income}}{\\text{Average Total Assets}}\n\\]\n\n- Net income (2024) = **€ 29,571,828**  (Table 6)  \n- Total assets 31‑12‑2024 = **€ 476,288,765** (Table 7)  \n- Total assets 31‑12‑2023 = **€ 421,315,533** (Table 7)  \n\n\\[\n\\text{Average Total Assets}= \\frac{476,288,765 + 421,315,533}{2}= € 448,802,149\n\\]\n\n\\[\n\\text{ROA}= \\frac{29,571,828}{448,802,149}=0.0659\\;\\text{(or }6.59\\%\\text{)}\n\\]\n\n**ROA ≈ 6.59 %**."
+    },
+    {
+        "id": "35",
+        "question": "What is the Return on Equity (ROE)?",
+        "formula": "Net Income / Average Shareholders' Equity",
+        "answer": "**Return on Equity (ROE)**  \n\n\\[\n\\text{ROE} = \\frac{\\text{Net Income}}{\\text{Average Shareholders’ Equity}}\n\\]\n\n- **Net Income (Profit for the period, 2024)** = € 29 571 828  (Table 6)  \n- **Shareholders’ equity at 31 Dec 2024** = € 108 116 977  (Table 8)  \n- **Shareholders’ equity at 31 Dec 2023** = € 65 435 225  (Table 8)  \n\n\\[\n\\text{Average equity} = \\frac{108\\,116\\,977 + 65\\,435\\,225}{2}\n                      = \\frac{173\\,552\\,202}{2}\n                      = €\\,86\\,776\\,101\n\\]\n\n\\[\n\\text{ROE} = \\frac{29\\,571\\,828}{86\\,776\\,101}\n           \\approx 0.3407 \\; \\text{or} \\; 34.1\\%\n\\]\n\n**ROE ≈ 34 % (for 2024)**."
+    },
+    {
+        "id": "36",
+        "question": "What is the Return on Invested Capital (ROIC)?",
+        "formula": "Net Operating Profit After Tax / Invested Capital",
+        "answer": "**Return on Invested Capital (ROIC) – 2024**\n\n\\[\n\\text{ROIC}= \\frac{\\text{Net Operating Profit After Tax (NOPAT)}}{\\text{Invested Capital}}\n\\]\n\n**1. Net Operating Profit After Tax (NOPAT)**  \nFrom the income‑statement (Table 6):\n\n- Profit before tax (EBIT) ……………………………  37 740 465 EUR  \n- Corporate income tax ……………………………  8 203 820 EUR  \n- Deferred corporate income tax …………………  732 929 EUR  \n\n\\[\n\\text{NOPAT}= 37\\,740\\,465 - (8\\,203\\,820 + 732\\,929)= 28\\,803\\,716\\ \\text{EUR}\n\\]\n\n**2. Invested Capital**  \nInvested capital is taken as total equity plus interest‑bearing borrowings, less cash & cash equivalents (Table 8).\n\n| Item | 2024 (EUR) |\n|------|------------|\n| Total equity (incl. non‑controlling interests) | 108 116 977 |\n| Non‑current borrowings | 267 562 839 |\n| Current borrowings | 72 015 592 |\n| **Cash & cash equivalents** | **34 461 093** |\n\n\\[\n\\begin{aligned}\n\\text{Invested Capital} &= \\text{Equity} + \\text{Non‑current borrowings} + \\text{Current borrowings} - \\text{Cash} \\\\\n&= 108\\,116\\,977 + 267\\,562\\,839 + 72\\,015\\,592 - 34\\,461\\,093 \\\\\n&= 413\\,234\\,315\\ \\text{EUR}\n\\end{aligned}\n\\]\n\n**3. ROIC Calculation**\n\n\\[\n\\text{ROIC}= \\frac{28\\,803\\,716}{413\\,234\\,315}=0.0697\\;(\\text{or }6.97\\%)\n\\]\n\n---\n\n**Result:** **ROIC ≈ 6.97 % for the year ended 31 December 2024.**"
+    }
+]
